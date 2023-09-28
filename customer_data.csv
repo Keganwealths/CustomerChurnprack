@@ -1,0 +1,501 @@
+Customer ID,Name,Email Address,Age,Location,Income,Occupation,Purchase Date,Laptop Brands,Price,Frequency of Use,Purpose,Previous Brands Owned,Satisfaction Rating,Tech Knowledge Level,Cart Abandonment
+70650431,John Tyler,ehaley@example.com,25,Big City,169470,Unemployed/Unskilled,11/26/2022,Asus,1416.844321,Daily,Gaming,Hard.,1,Expert,Yes
+38417808,Ana Johnson,hendersonmaria@example.org,43,Big City,285743,Management/self-employed/highly qualified employee/officer,8/14/2022,Asus,642.7817621,Rarely,Work,Actually assume.,1,Advanced,No
+32731807,Steven Smith,johndavis@example.net,50,Midsize-City,54796,Management/self-employed/highly qualified employee/officer,3/2/2023,Apple,1593.556018,Rarely,Entertainment,Step.,5,Beginner,No
+68748371,Amy Brown,ocobb@example.net,68,Big City,148493,Skilled Employee/official,4/30/2020,Dell,866.4869239,Rarely,Gaming,Green in.,1,Intermediate,No
+45107711,Chad Romero,teresa82@example.org,66,Small City,43043,Unemployed/Unskilled,5/14/2021,Lenovo,1177.699519,Daily,Gaming,Nation.,3,Beginner,Yes
+44043319,Wendy Sawyer,ryan80@example.com,57,Small City,37619,Management/self-employed/highly qualified employee/officer,2/8/2019,HP,1821.336559,Daily,Entertainment,Book.,4,Beginner,Yes
+25190404,Kevin Bauer,tbowen@example.org,57,Big City,94845,Unemployed/Unskilled,10/2/2020,HP,1085.006121,Daily,Gaming,Part.,5,Advanced,Yes
+27155579,Arthur Jackson,qthornton@example.com,61,Midsize-City,47843,Unemployed/Unskilled,4/26/2020,Apple,1243.752294,Weekly,Work,Democratic.,1,Intermediate,Yes
+21949407,Sarah Crane,fhutchinson@example.org,59,Big City,101125,Unemployed/Unskilled,9/25/2021,Asus,668.3434885,Daily,Entertainment,Human.,5,Expert,Yes
+35496792,Nancy Harrison,jessicaramirez@example.com,47,Big City,251598,Skilled Employee/official,6/20/2020,Acer,1130.639795,Weekly,Work,Face measure.,1,Beginner,No
+86239123,Maria Gordon,christopheredwards@example.com,22,Small City,43003,Management/self-employed/highly qualified employee/officer,4/17/2023,Acer,1387.353045,Daily,Entertainment,Beat.,5,Expert,Yes
+43286859,Melanie Schneider,omoody@example.net,52,Midsize-City,55819,Management/self-employed/highly qualified employee/officer,5/6/2020,Dell,1093.502472,Weekly,Work,Growth pull.,1,Intermediate,Yes
+21674076,Jose Morgan DDS,robertsherman@example.net,33,Midsize-City,53299,Management/self-employed/highly qualified employee/officer,6/28/2019,Lenovo,1321.971387,Rarely,Gaming,Heavy.,1,Advanced,No
+95790076,Troy Shah,zharris@example.net,36,Midsize-City,62325,Unemployed/Unskilled,7/22/2022,Acer,1933.11309,Rarely,Entertainment,Writer.,4,Intermediate,No
+45506787,Matthew Mills,genewoodard@example.org,45,Big City,209086,Skilled Employee/official,11/11/2019,Asus,1614.017337,Rarely,Work,Exactly.,3,Expert,Yes
+19761964,Paul Ortiz,gonzalesmark@example.org,32,Big City,199922,Unemployed/Unskilled,7/18/2019,Dell,1782.214371,Rarely,Work,Huge right.,5,Advanced,Yes
+54542783,Anita Stafford,jaime76@example.net,27,Midsize-City,66246,Management/self-employed/highly qualified employee/officer,4/9/2022,Asus,1334.9603,Weekly,Work,Check thought.,5,Expert,No
+31653156,Natalie Hill,jennifergonzalez@example.com,67,Small City,36927,Unemployed/Unskilled,12/29/2018,Asus,1156.451053,Weekly,Entertainment,Fine tree.,4,Expert,Yes
+22328089,Alexis Duncan,theresagay@example.com,31,Midsize-City,60433,Skilled Employee/official,3/16/2023,HP,795.2445181,Rarely,Gaming,Yourself which.,2,Intermediate,Yes
+18770120,Elizabeth Cooper,chavezjacqueline@example.org,38,Small City,42599,Skilled Employee/official,10/10/2021,Acer,987.4007234,Daily,Work,Sit.,1,Expert,No
+39522738,Joyce Cowan,pquinn@example.com,24,Big City,129257,Skilled Employee/official,11/22/2019,Asus,972.693061,Rarely,Entertainment,Receive many.,4,Beginner,No
+95664526,Christina Gordon,kyleconley@example.com,61,Small City,40251,Unemployed/Unskilled,5/6/2021,Apple,1759.436381,Weekly,Gaming,Rule.,4,Beginner,Yes
+32205858,Anthony White,richard26@example.org,38,Midsize-City,66374,Unemployed/Unskilled,4/16/2021,HP,1486.634557,Daily,Entertainment,Western figure.,2,Advanced,No
+60816411,Kathryn Rivas,sarahallen@example.org,22,Midsize-City,58427,Skilled Employee/official,8/16/2020,Lenovo,1422.290081,Daily,Gaming,Network.,5,Advanced,Yes
+94171088,Katherine Thornton,miguel02@example.org,70,Small City,42284,Management/self-employed/highly qualified employee/officer,10/15/2018,Acer,1485.806883,Daily,Gaming,Major prevent.,3,Beginner,Yes
+41933715,Robert Doyle,adrienne37@example.com,56,Midsize-City,65460,Skilled Employee/official,10/30/2020,Apple,1299.459124,Rarely,Entertainment,Seven glass.,1,Expert,Yes
+84915705,Ashley Khan,rodriguezsuzanne@example.net,45,Big City,147365,Skilled Employee/official,4/15/2021,Dell,1941.091009,Rarely,Work,Risk.,5,Beginner,No
+22795625,Chloe Bond,mdrake@example.org,31,Big City,288918,Unemployed/Unskilled,2/4/2020,Lenovo,1524.809578,Daily,Work,Decade.,5,Expert,Yes
+76850269,Karen Robinson,inguyen@example.org,25,Small City,38384,Unemployed/Unskilled,12/21/2019,Lenovo,1443.677824,Daily,Work,Past fast.,2,Expert,Yes
+59424274,Mary Lopez,andrea08@example.net,22,Small City,36826,Management/self-employed/highly qualified employee/officer,1/6/2020,Lenovo,693.1593105,Weekly,Entertainment,Color agree.,1,Beginner,Yes
+53885153,Richard Ward,margaretsanders@example.com,60,Big City,179865,Skilled Employee/official,6/17/2023,Dell,786.1679733,Weekly,Gaming,Wind.,3,Intermediate,Yes
+51379113,Robert Butler,rochatiffany@example.net,31,Small City,40914,Management/self-employed/highly qualified employee/officer,6/28/2019,Lenovo,1707.480669,Daily,Gaming,Yourself call.,4,Advanced,Yes
+30999039,Michael Jenkins,eholder@example.net,68,Small City,35472,Skilled Employee/official,3/28/2021,Asus,1176.431432,Rarely,Work,Mrs.,2,Expert,Yes
+63390033,Jessica Johnston,nicolecarter@example.com,18,Big City,107894,Unemployed/Unskilled,9/6/2021,Dell,653.6361105,Rarely,Entertainment,Watch.,5,Intermediate,Yes
+94360731,Molly West,darlene26@example.net,70,Small City,37747,Unemployed/Unskilled,10/19/2021,Dell,1803.521715,Rarely,Entertainment,Forget sure.,1,Advanced,No
+41518647,Christopher Hart,aday@example.com,47,Small City,35401,Management/self-employed/highly qualified employee/officer,2/7/2020,Asus,459.0164192,Weekly,Entertainment,Agreement.,3,Intermediate,No
+60669919,Brian Watkins,william75@example.org,57,Small City,39925,Skilled Employee/official,11/21/2021,HP,1163.176168,Daily,Work,Travel.,5,Advanced,No
+89344973,Steven Ruiz,seth82@example.net,58,Midsize-City,55355,Unemployed/Unskilled,9/19/2019,Apple,1432.403639,Weekly,Entertainment,Good.,4,Intermediate,Yes
+93506686,Tony Long DDS,darryl18@example.com,56,Small City,42945,Skilled Employee/official,10/30/2019,Lenovo,1550.902904,Rarely,Gaming,Election of.,1,Expert,No
+85017615,Valerie Burns,kevin36@example.com,62,Midsize-City,67182,Management/self-employed/highly qualified employee/officer,4/10/2019,Acer,982.5965984,Rarely,Work,State art.,2,Expert,No
+18332581,Mark Hanson,alexander74@example.org,18,Small City,40273,Unemployed/Unskilled,7/9/2021,Lenovo,783.3976322,Rarely,Entertainment,On tonight.,5,Intermediate,Yes
+45001534,Amanda Wilson,lisa90@example.com,65,Midsize-City,48843,Management/self-employed/highly qualified employee/officer,6/1/2022,Apple,585.7382292,Weekly,Work,Free similar.,2,Intermediate,Yes
+86321642,Pedro Garcia,ortizmackenzie@example.com,68,Small City,37902,Skilled Employee/official,10/8/2019,HP,806.773044,Rarely,Work,Law find.,2,Expert,Yes
+83593759,Kenneth Carr,shelley21@example.net,70,Small City,41315,Management/self-employed/highly qualified employee/officer,10/1/2019,Asus,551.2723466,Daily,Gaming,Standard operation.,1,Advanced,Yes
+37390498,Gary Wood,carly55@example.com,70,Big City,183041,Skilled Employee/official,1/16/2019,Acer,1745.92672,Rarely,Work,Born.,2,Beginner,No
+10246584,Amy Weber,smithvanessa@example.net,50,Small City,40152,Unemployed/Unskilled,5/29/2022,Apple,1157.376721,Daily,Entertainment,By.,5,Intermediate,Yes
+76442127,Tyler Allen,johnrivas@example.net,53,Big City,259404,Management/self-employed/highly qualified employee/officer,1/14/2020,Acer,1784.606779,Weekly,Gaming,Financial.,4,Advanced,No
+97902018,Stephen Lopez,crystal86@example.com,23,Midsize-City,47118,Management/self-employed/highly qualified employee/officer,6/17/2023,HP,1283.405856,Weekly,Entertainment,On fill.,2,Advanced,Yes
+47759331,Yolanda Ortiz,kennethcopeland@example.com,68,Small City,40733,Unemployed/Unskilled,3/5/2021,HP,1547.143867,Weekly,Work,Majority my.,1,Intermediate,No
+54787792,Amanda Scott,stephenweiss@example.org,57,Big City,89380,Skilled Employee/official,5/28/2022,Lenovo,1716.383999,Weekly,Entertainment,Treatment her.,1,Expert,Yes
+66958368,Christopher Montgomery,ruizandrew@example.org,66,Midsize-City,49670,Skilled Employee/official,11/11/2021,Acer,1509.713798,Daily,Entertainment,Write and.,3,Expert,Yes
+72656478,Dr. Stacey Preston DDS,iray@example.com,68,Small City,40895,Unemployed/Unskilled,11/5/2019,Acer,1364.749104,Weekly,Gaming,Knowledge.,4,Beginner,No
+78938548,Mitchell Acevedo,cramirez@example.net,20,Big City,98029,Management/self-employed/highly qualified employee/officer,6/5/2020,Dell,604.1935546,Weekly,Gaming,Art.,5,Expert,No
+56188137,Mark Fisher,ibuckley@example.com,40,Midsize-City,64139,Skilled Employee/official,1/6/2019,Apple,1705.768352,Rarely,Entertainment,Themselves trial.,4,Beginner,Yes
+21230058,Alicia Farley,marisamays@example.com,35,Small City,36926,Management/self-employed/highly qualified employee/officer,6/16/2021,Acer,375.1971914,Rarely,Gaming,Be.,4,Beginner,No
+81434660,Matthew Bauer,raymond97@example.net,45,Midsize-City,66917,Management/self-employed/highly qualified employee/officer,6/17/2019,Lenovo,1983.063534,Daily,Gaming,Tough.,1,Expert,Yes
+41934022,Thomas Watkins,adamstodd@example.org,44,Small City,42127,Unemployed/Unskilled,7/17/2022,Apple,1818.065478,Daily,Work,Approach.,4,Expert,No
+37686872,Michael Gardner,whiteelizabeth@example.net,67,Midsize-City,61469,Management/self-employed/highly qualified employee/officer,6/4/2022,HP,345.6924262,Weekly,Work,Law.,5,Expert,No
+39866067,Dr. Renee Wright MD,kimberly24@example.net,59,Midsize-City,63648,Management/self-employed/highly qualified employee/officer,3/20/2022,Dell,1684.757202,Daily,Gaming,International military.,4,Intermediate,Yes
+34413441,Nicholas Hart,shardin@example.com,69,Big City,141284,Skilled Employee/official,12/17/2021,Dell,1092.07855,Weekly,Work,Place.,5,Advanced,No
+74294147,Anne Benton,evansjoseph@example.org,31,Small City,36233,Management/self-employed/highly qualified employee/officer,1/11/2020,Dell,1548.063215,Weekly,Entertainment,Worker.,1,Advanced,Yes
+58404564,Susan Phillips,brian12@example.org,41,Big City,214253,Unemployed/Unskilled,6/18/2019,Dell,388.5606504,Daily,Entertainment,Court.,3,Intermediate,No
+62125961,Jeffrey Odom,manderson@example.net,45,Small City,37463,Skilled Employee/official,5/17/2019,Acer,1364.065853,Weekly,Work,Camera.,2,Intermediate,No
+70780033,Ashley Robertson,janice48@example.com,51,Big City,83775,Management/self-employed/highly qualified employee/officer,12/23/2020,Lenovo,443.0701087,Rarely,Work,Activity.,3,Advanced,Yes
+44606634,Caroline Chung,josephbarnes@example.org,20,Small City,42899,Management/self-employed/highly qualified employee/officer,9/23/2023,Apple,1232.257973,Weekly,Work,Mention.,5,Advanced,No
+71411206,Stacey Lewis DDS,rogerhall@example.net,67,Small City,41815,Unemployed/Unskilled,9/21/2023,Acer,332.0516476,Weekly,Gaming,When record.,3,Beginner,Yes
+73020998,Shannon Small,mariagonzalez@example.org,61,Big City,164414,Skilled Employee/official,1/21/2020,Acer,792.8317925,Rarely,Entertainment,Meeting particular.,3,Advanced,Yes
+73762901,Timothy Mitchell,gsmith@example.com,26,Big City,149776,Management/self-employed/highly qualified employee/officer,4/14/2022,Lenovo,1504.957128,Daily,Entertainment,Along.,1,Advanced,No
+97000992,Gregory Giles,johnnysmith@example.com,55,Midsize-City,46434,Skilled Employee/official,4/30/2022,Apple,1086.875961,Rarely,Entertainment,Mean.,2,Intermediate,No
+70023910,Colleen Patterson DDS,courtneyguerrero@example.org,36,Big City,192371,Skilled Employee/official,5/4/2022,Dell,1248.154117,Daily,Work,Eye necessary.,3,Beginner,No
+93157246,Gary Duke,donaldlawrence@example.com,68,Midsize-City,56961,Management/self-employed/highly qualified employee/officer,7/30/2020,Lenovo,1477.546734,Rarely,Gaming,Level property.,5,Expert,No
+35837220,Michael Murray,jacquelinewilliams@example.com,65,Big City,73190,Skilled Employee/official,3/17/2023,HP,1660.994626,Daily,Work,Good hundred.,5,Intermediate,No
+63491310,Chase Roberts,michael75@example.net,44,Small City,41038,Skilled Employee/official,6/6/2022,Dell,325.1974613,Daily,Entertainment,Media system.,1,Beginner,No
+90848307,Michael Cantu,tommysanders@example.com,51,Midsize-City,56264,Unemployed/Unskilled,9/2/2019,Asus,1000.083644,Weekly,Entertainment,Require.,5,Intermediate,No
+95786906,Keith Nunez,fkelly@example.org,63,Midsize-City,65373,Management/self-employed/highly qualified employee/officer,9/25/2020,Apple,1021.835024,Daily,Work,People past.,2,Beginner,No
+51869722,Anthony Jacobson,ksmith@example.org,38,Small City,35684,Skilled Employee/official,4/26/2022,Acer,1332.582075,Weekly,Work,Food.,5,Intermediate,No
+11484778,Clayton Smith,amanda41@example.net,57,Big City,244210,Management/self-employed/highly qualified employee/officer,5/11/2019,Apple,1384.828697,Weekly,Entertainment,Water.,5,Beginner,No
+50886815,Christina Burnett,dylantate@example.com,29,Big City,238777,Skilled Employee/official,3/4/2021,Lenovo,910.8141132,Weekly,Work,Not.,2,Beginner,Yes
+33418390,Melanie Quinn,madison43@example.org,20,Midsize-City,57691,Unemployed/Unskilled,11/14/2020,Lenovo,642.5350625,Weekly,Gaming,Question civil.,3,Beginner,Yes
+92174362,Eric Green,jessica90@example.net,65,Midsize-City,48670,Management/self-employed/highly qualified employee/officer,5/25/2022,Acer,690.3284576,Daily,Gaming,Energy.,1,Beginner,Yes
+69845565,Tiffany Schmidt,curtisjones@example.org,67,Midsize-City,59634,Unemployed/Unskilled,5/30/2023,Asus,1183.112519,Rarely,Work,Green might.,1,Beginner,No
+93388556,Crystal Lee,alex76@example.com,50,Big City,111365,Management/self-employed/highly qualified employee/officer,3/9/2020,Apple,1012.991703,Rarely,Entertainment,Out end.,2,Intermediate,Yes
+42544860,Matthew Rodriguez,kimberly94@example.org,42,Big City,80927,Management/self-employed/highly qualified employee/officer,8/9/2022,HP,901.0240786,Weekly,Work,Simple address.,2,Advanced,Yes
+19572749,Elizabeth Jones,jessicaevans@example.net,56,Small City,38002,Skilled Employee/official,7/29/2019,Asus,1019.271859,Rarely,Entertainment,Outside.,4,Expert,Yes
+28778285,Tonya Cline,benjamingarrett@example.net,60,Big City,213949,Skilled Employee/official,10/10/2022,Asus,1046.047825,Rarely,Work,Record front.,3,Expert,No
+54772185,Lisa Marquez,meagangallagher@example.net,70,Big City,136537,Unemployed/Unskilled,10/19/2018,HP,936.7794447,Daily,Entertainment,Feeling company.,5,Expert,Yes
+79014194,Timothy Moss,alicia95@example.net,55,Midsize-City,57348,Management/self-employed/highly qualified employee/officer,8/28/2023,Acer,1467.046097,Rarely,Work,State.,3,Beginner,Yes
+73971681,Kathryn Sutton,bookerkelly@example.org,41,Small City,37494,Unemployed/Unskilled,10/15/2021,Asus,959.2658078,Weekly,Work,Then.,1,Advanced,Yes
+44033679,Marcus Long,mduncan@example.org,57,Small City,35795,Management/self-employed/highly qualified employee/officer,12/21/2021,Dell,1112.523504,Weekly,Gaming,Open.,1,Beginner,No
+57904273,Adam Wong,amandachristian@example.com,53,Big City,292620,Management/self-employed/highly qualified employee/officer,11/27/2022,HP,1331.399832,Daily,Entertainment,He.,1,Beginner,No
+96156333,Danielle Collins,sanderssheena@example.org,65,Big City,131103,Management/self-employed/highly qualified employee/officer,6/18/2023,Asus,628.1381512,Weekly,Work,Better.,1,Beginner,No
+22583680,Bill Clark,roylori@example.com,52,Big City,169217,Unemployed/Unskilled,3/14/2020,Asus,397.2854959,Weekly,Work,Guy.,3,Advanced,Yes
+91624774,Donna Simmons,charlesmeyer@example.org,52,Small City,39555,Unemployed/Unskilled,10/20/2021,Asus,354.1138298,Daily,Entertainment,Media.,4,Advanced,No
+49513723,Dennis Jones,kevin07@example.org,70,Small City,38255,Skilled Employee/official,12/1/2020,Asus,1259.099394,Daily,Entertainment,That.,2,Beginner,Yes
+64619353,Timothy Phillips,nicoledixon@example.org,59,Midsize-City,50147,Unemployed/Unskilled,1/28/2019,Dell,1460.193887,Daily,Entertainment,Affect support.,5,Expert,No
+65522605,Courtney Mcclain,dawsoncheryl@example.net,67,Midsize-City,48910,Skilled Employee/official,6/11/2021,Lenovo,1019.841486,Rarely,Work,Offer goal.,2,Advanced,No
+16991087,Stacey Coleman,madison58@example.com,44,Midsize-City,59384,Management/self-employed/highly qualified employee/officer,1/2/2023,Acer,1108.304246,Daily,Entertainment,Deep recent.,3,Expert,Yes
+69376051,Melissa Reeves,christinasmith@example.com,59,Big City,195577,Unemployed/Unskilled,1/31/2023,Asus,1631.949978,Rarely,Gaming,Bill.,3,Intermediate,No
+71368485,Pamela Brady,idiaz@example.org,30,Big City,181470,Management/self-employed/highly qualified employee/officer,4/9/2021,Lenovo,596.9831648,Rarely,Gaming,Fact place.,4,Expert,Yes
+44035292,Kevin Blanchard,meredith90@example.com,38,Big City,146935,Management/self-employed/highly qualified employee/officer,4/17/2021,Asus,1088.772349,Weekly,Entertainment,Life.,5,Beginner,Yes
+90316639,Alyssa Glenn,angelaaguirre@example.com,47,Small City,42327,Skilled Employee/official,9/24/2021,HP,1956.309066,Daily,Work,Factor catch.,2,Intermediate,Yes
+27709407,Matthew Smith,clementsstephanie@example.net,37,Small City,43233,Skilled Employee/official,4/18/2023,Asus,353.7173625,Daily,Gaming,Stage.,1,Intermediate,Yes
+93071810,Veronica White MD,dhernandez@example.net,28,Midsize-City,55975,Management/self-employed/highly qualified employee/officer,1/30/2023,Apple,1704.522722,Rarely,Entertainment,Agree.,4,Beginner,Yes
+60957469,Victor Hall,jimenezraymond@example.com,69,Midsize-City,65007,Unemployed/Unskilled,11/18/2022,Apple,325.003215,Rarely,Gaming,Meeting.,5,Advanced,No
+91178600,Rachel Anderson,gary37@example.com,51,Small City,41847,Skilled Employee/official,7/30/2019,HP,1016.620715,Rarely,Gaming,Camera.,5,Advanced,Yes
+70281359,Michelle Day,hreese@example.org,28,Big City,208441,Skilled Employee/official,3/9/2023,Asus,475.3682274,Rarely,Entertainment,Anything reveal.,4,Advanced,No
+67356708,Wendy Farrell,hprice@example.org,69,Small City,42459,Skilled Employee/official,2/4/2020,Acer,1067.068982,Weekly,Gaming,The.,5,Intermediate,Yes
+86590647,Crystal Burns,robert80@example.com,42,Small City,44271,Unemployed/Unskilled,7/22/2023,Dell,888.983224,Weekly,Entertainment,Statement seek.,4,Expert,No
+84226368,William Shaw,kimberly23@example.org,18,Big City,214299,Unemployed/Unskilled,6/12/2021,Apple,510.0348701,Weekly,Entertainment,Example.,1,Advanced,No
+24784990,Michael Diaz,emiller@example.org,38,Midsize-City,65610,Unemployed/Unskilled,4/9/2021,Acer,424.1025465,Daily,Gaming,Goal.,4,Expert,Yes
+24586624,Raymond Huerta,cduncan@example.net,37,Small City,44505,Skilled Employee/official,8/15/2023,HP,1816.831969,Rarely,Entertainment,Minute.,2,Intermediate,Yes
+95249335,Jorge Murphy,crystalharris@example.com,57,Midsize-City,69575,Management/self-employed/highly qualified employee/officer,6/19/2022,Lenovo,1291.622141,Daily,Gaming,Fund will.,2,Advanced,Yes
+23709305,Ann Christensen,alanwilliams@example.net,45,Big City,107142,Management/self-employed/highly qualified employee/officer,12/21/2021,HP,1494.434106,Rarely,Gaming,While.,4,Intermediate,No
+50539929,Stephanie Harris,kerickson@example.com,30,Small City,43624,Skilled Employee/official,8/3/2023,HP,1958.146492,Rarely,Gaming,Money.,4,Beginner,No
+90636562,Laura Turner,leslieadams@example.com,22,Small City,41818,Skilled Employee/official,8/12/2020,Dell,792.6203388,Rarely,Entertainment,Say none.,5,Beginner,No
+74391213,Stephen Carroll,jesusbird@example.org,54,Small City,35783,Skilled Employee/official,6/26/2023,HP,941.8114561,Daily,Gaming,Around wife.,3,Intermediate,Yes
+88781661,Jesse Hood,perezjulia@example.org,66,Big City,224434,Unemployed/Unskilled,6/25/2023,HP,349.2251693,Rarely,Entertainment,Perhaps.,2,Advanced,Yes
+24480024,Scott Peterson,kingcassandra@example.com,40,Big City,178288,Skilled Employee/official,3/31/2019,Asus,853.144409,Daily,Work,Best.,4,Intermediate,No
+13702110,Crystal Miranda,acevedolindsay@example.net,36,Big City,101926,Management/self-employed/highly qualified employee/officer,11/15/2019,Dell,851.3178129,Daily,Entertainment,American ground.,4,Beginner,No
+66942480,Matthew Davis,jlloyd@example.com,27,Big City,124741,Skilled Employee/official,9/20/2019,Dell,898.3677322,Weekly,Work,Top.,4,Expert,No
+39879189,Brenda Johnson PhD,usantiago@example.org,37,Big City,178093,Management/self-employed/highly qualified employee/officer,9/13/2022,Apple,767.0417633,Rarely,Work,Hand.,1,Intermediate,No
+60218588,Thomas Moody,sgoodman@example.com,62,Small City,44117,Management/self-employed/highly qualified employee/officer,8/24/2022,Apple,1834.729318,Weekly,Entertainment,Street.,4,Advanced,No
+72320175,Andrea Medina,smithbradley@example.net,45,Small City,39283,Skilled Employee/official,11/6/2020,HP,1750.254555,Rarely,Gaming,Media source.,3,Advanced,No
+15773575,Brooke Houston,ochase@example.org,32,Small City,42640,Unemployed/Unskilled,3/13/2022,Apple,539.795313,Daily,Work,Low night.,3,Beginner,Yes
+41515472,Kevin Leonard,cohendavid@example.com,45,Midsize-City,51019,Unemployed/Unskilled,4/30/2022,Apple,1892.47758,Daily,Entertainment,Every.,4,Advanced,No
+41139608,Renee Jimenez,joshuavalenzuela@example.net,62,Big City,80231,Unemployed/Unskilled,4/5/2020,Asus,1484.102269,Rarely,Work,Threat yourself.,3,Expert,No
+20357130,Timothy Gilbert,thompsonmichael@example.net,22,Small City,35451,Skilled Employee/official,11/21/2018,Lenovo,1985.974224,Rarely,Work,Carry.,1,Beginner,No
+98089171,Joseph Johnson,imckinney@example.org,21,Big City,97297,Skilled Employee/official,3/6/2022,Acer,346.9215685,Weekly,Work,Son.,3,Expert,Yes
+46064602,Christina Jones,powelljacob@example.net,43,Midsize-City,56889,Unemployed/Unskilled,9/8/2019,Asus,781.3530951,Rarely,Gaming,South.,1,Expert,No
+54195364,Eric Parker,amandamueller@example.net,30,Midsize-City,63206,Management/self-employed/highly qualified employee/officer,7/17/2023,HP,1334.748662,Weekly,Work,Seek relationship.,3,Expert,No
+60498233,Daniel Thompson,preynolds@example.net,66,Midsize-City,67378,Unemployed/Unskilled,10/20/2021,Apple,1069.299471,Daily,Work,Plan.,4,Expert,Yes
+86970206,Oscar Shea,olsongeorge@example.net,53,Small City,44785,Skilled Employee/official,10/31/2021,Apple,1606.403304,Rarely,Gaming,Serious ability.,4,Intermediate,No
+37964139,Cody Gaines,patriciadavid@example.net,41,Midsize-City,47740,Unemployed/Unskilled,10/17/2020,Apple,1514.387312,Weekly,Entertainment,Dog wrong.,5,Advanced,No
+21628853,Hannah Rich,otorres@example.net,32,Small City,37699,Skilled Employee/official,8/21/2021,Lenovo,1425.266675,Weekly,Gaming,Officer season.,2,Advanced,Yes
+54133380,Cheryl Moore,hector48@example.com,51,Small City,36357,Unemployed/Unskilled,11/11/2018,HP,1400.95433,Rarely,Gaming,Consider strong.,2,Expert,Yes
+62436106,Kim Warner,mcgeenicole@example.org,32,Big City,98559,Management/self-employed/highly qualified employee/officer,7/20/2023,HP,604.4490108,Rarely,Entertainment,Executive.,2,Expert,Yes
+92903779,Paul Bennett,dixonrobert@example.com,22,Big City,237018,Management/self-employed/highly qualified employee/officer,9/12/2019,Dell,1351.309999,Rarely,Work,Compare trouble.,4,Intermediate,No
+47323709,Michael Klein,jennifer51@example.com,45,Midsize-City,49632,Management/self-employed/highly qualified employee/officer,2/4/2020,Acer,1881.181471,Daily,Entertainment,Away vote.,5,Advanced,Yes
+21611063,Brian Brown,bprice@example.com,21,Midsize-City,68179,Skilled Employee/official,3/5/2019,Acer,817.9278049,Rarely,Work,Answer.,4,Advanced,No
+67367419,Ricky Rodriguez,moorerobert@example.com,49,Midsize-City,67141,Management/self-employed/highly qualified employee/officer,3/7/2020,Dell,1151.513135,Daily,Entertainment,Air six.,1,Advanced,No
+81511656,Danielle Long,tammy14@example.com,46,Small City,44246,Unemployed/Unskilled,11/15/2019,Acer,1233.16186,Weekly,Gaming,Accept half.,3,Intermediate,No
+17641442,Alexander Stevens,rluna@example.com,43,Midsize-City,62205,Skilled Employee/official,12/5/2020,Lenovo,1098.932864,Weekly,Gaming,Recent decide.,3,Intermediate,No
+87631173,Jennifer Wood,samantha66@example.org,23,Big City,187212,Skilled Employee/official,6/28/2021,HP,581.5315698,Rarely,Gaming,Admit politics.,4,Advanced,Yes
+62909720,Gregory Hogan,jeremy88@example.org,51,Midsize-City,50566,Unemployed/Unskilled,2/15/2019,HP,626.669062,Daily,Gaming,Send.,5,Intermediate,Yes
+63367840,Cassandra Pearson,scott85@example.net,56,Small City,38639,Management/self-employed/highly qualified employee/officer,3/7/2023,HP,1214.932214,Weekly,Work,Enough.,3,Beginner,Yes
+48874199,Larry Compton,fchandler@example.org,38,Big City,173527,Skilled Employee/official,5/13/2022,HP,608.7627823,Weekly,Work,Large community.,5,Beginner,Yes
+14360344,Brent Smith,kristinanderson@example.org,61,Big City,215628,Management/self-employed/highly qualified employee/officer,11/2/2019,Asus,1980.743047,Weekly,Entertainment,A show.,1,Intermediate,Yes
+42999588,Diane Garza,vicki60@example.net,62,Big City,183529,Unemployed/Unskilled,12/9/2020,Dell,821.5100041,Daily,Gaming,Specific relationship.,1,Expert,Yes
+95928998,Shelby Huffman,qfuller@example.net,31,Midsize-City,60160,Management/self-employed/highly qualified employee/officer,7/31/2021,Acer,1857.184312,Daily,Entertainment,Base organization.,5,Intermediate,Yes
+77984961,Matthew Powell,linda73@example.net,33,Midsize-City,58574,Management/self-employed/highly qualified employee/officer,2/7/2020,Asus,1563.066046,Daily,Gaming,Through.,3,Intermediate,No
+55102944,Kimberly Leonard,gomezamber@example.net,18,Big City,139201,Unemployed/Unskilled,7/25/2021,Acer,1305.54937,Daily,Entertainment,Near around.,4,Advanced,No
+24661737,Danielle Murray,amandahansen@example.net,23,Big City,176966,Unemployed/Unskilled,8/30/2019,HP,1158.669575,Daily,Gaming,Each nice.,3,Expert,No
+34739322,Mark Haley,barbaramccarthy@example.com,47,Midsize-City,47792,Skilled Employee/official,2/20/2022,Asus,341.8123342,Weekly,Work,Recognize.,1,Beginner,No
+20718575,James Jordan,gabriel86@example.org,61,Midsize-City,63076,Unemployed/Unskilled,5/16/2023,Lenovo,1236.288953,Weekly,Gaming,Guy guess.,4,Beginner,Yes
+29711906,Andrew Johnston,joan38@example.org,20,Midsize-City,55592,Skilled Employee/official,10/13/2020,Lenovo,1358.327539,Rarely,Entertainment,Find movement.,1,Advanced,Yes
+60648202,Sharon Colon,pennylopez@example.com,40,Midsize-City,69432,Unemployed/Unskilled,6/28/2019,Dell,1472.171606,Weekly,Work,Else more.,1,Advanced,Yes
+97512971,Jessica Cunningham,arnoldangelica@example.org,53,Big City,235791,Management/self-employed/highly qualified employee/officer,3/7/2022,Asus,1874.440643,Weekly,Entertainment,Treatment.,5,Beginner,Yes
+66176766,Henry Johnson,rebecca02@example.org,64,Midsize-City,50661,Unemployed/Unskilled,6/24/2023,Asus,316.1212814,Rarely,Entertainment,Maybe list.,4,Beginner,No
+86242703,Philip Cox,jeffharris@example.com,34,Midsize-City,66140,Skilled Employee/official,11/17/2020,Apple,445.7626718,Daily,Work,Program.,1,Advanced,Yes
+64803229,Christina Gray,ricky62@example.com,41,Big City,142611,Unemployed/Unskilled,9/15/2023,Asus,1401.581618,Weekly,Gaming,Language.,3,Intermediate,No
+93930208,Matthew Acosta,jason76@example.com,21,Small City,35357,Management/self-employed/highly qualified employee/officer,12/9/2022,Acer,750.4163143,Daily,Entertainment,Tonight data.,5,Expert,No
+61404727,Abigail Myers,matthew08@example.com,66,Midsize-City,66928,Unemployed/Unskilled,1/12/2020,HP,1054.038453,Daily,Entertainment,Kitchen election.,5,Beginner,Yes
+22900636,James Hernandez,xwaller@example.net,39,Small City,35438,Unemployed/Unskilled,2/23/2023,HP,1109.862126,Rarely,Entertainment,Us.,2,Intermediate,No
+11270573,Crystal Phillips,rogeranderson@example.com,48,Midsize-City,46924,Unemployed/Unskilled,6/20/2023,Asus,1798.629846,Rarely,Work,Media member.,1,Expert,No
+49315940,Larry Mason,cindy61@example.com,20,Midsize-City,52944,Management/self-employed/highly qualified employee/officer,2/8/2022,Dell,1115.226049,Weekly,Work,Out win.,4,Intermediate,No
+89387427,Anthony Gould,diana14@example.net,38,Big City,294552,Management/self-employed/highly qualified employee/officer,9/1/2020,Apple,711.258638,Rarely,Entertainment,Assume ok.,2,Intermediate,No
+96493191,Jennifer Jensen,laura99@example.net,42,Small City,43571,Unemployed/Unskilled,2/12/2019,Acer,792.4924685,Daily,Entertainment,Already establish.,1,Expert,No
+84497726,Rachel Brown,davidperez@example.net,26,Small City,43704,Management/self-employed/highly qualified employee/officer,2/3/2019,HP,404.527769,Daily,Entertainment,Pressure.,5,Intermediate,No
+10833742,Rachel Le,lowejames@example.net,59,Small City,35073,Unemployed/Unskilled,2/10/2021,Dell,1001.381795,Weekly,Work,Body others.,3,Beginner,Yes
+32821905,Joseph Russell,howardanthony@example.com,66,Big City,248415,Management/self-employed/highly qualified employee/officer,10/26/2019,HP,1146.899186,Rarely,Work,Animal.,5,Expert,Yes
+61795730,Lisa Reynolds,millerjennifer@example.com,45,Big City,177446,Unemployed/Unskilled,2/3/2023,Lenovo,1309.312609,Weekly,Work,Seem various.,1,Advanced,No
+12796053,Katherine Kline,terrimcdonald@example.com,43,Big City,123713,Management/self-employed/highly qualified employee/officer,7/21/2021,HP,994.510583,Daily,Work,View.,3,Intermediate,Yes
+77082709,Terry Miller,xbrewer@example.org,36,Big City,238046,Management/self-employed/highly qualified employee/officer,1/29/2022,Apple,612.7941037,Daily,Work,Leader.,5,Beginner,No
+71352568,Nathaniel Green,ricardo54@example.com,34,Big City,265331,Skilled Employee/official,2/9/2023,Lenovo,707.3496173,Rarely,Entertainment,Fact.,2,Expert,No
+52030601,Diane Allen,sean05@example.org,51,Small City,40515,Skilled Employee/official,1/29/2020,Dell,1104.513919,Rarely,Work,Staff seven.,5,Intermediate,Yes
+97334042,Dale Young,xproctor@example.org,29,Big City,76690,Management/self-employed/highly qualified employee/officer,8/19/2019,Acer,1249.255056,Rarely,Entertainment,Region.,5,Expert,Yes
+50782195,Karen Serrano,goodedward@example.com,28,Midsize-City,69526,Management/self-employed/highly qualified employee/officer,8/3/2022,Asus,1166.92663,Rarely,Work,East street.,4,Intermediate,No
+60083419,Dylan Weber,derrick72@example.net,22,Small City,38219,Skilled Employee/official,6/7/2022,Dell,631.9583062,Weekly,Work,Space.,2,Beginner,Yes
+83358807,Kelly Lane,jthornton@example.org,38,Big City,179845,Unemployed/Unskilled,8/12/2021,Apple,1983.191301,Weekly,Work,Process.,4,Intermediate,Yes
+85521899,Jordan Wilson,daniel55@example.org,62,Small City,42038,Management/self-employed/highly qualified employee/officer,5/2/2022,Asus,684.4558619,Daily,Entertainment,Debate.,3,Intermediate,No
+80970835,John Nelson,ryanmurillo@example.com,25,Midsize-City,56628,Unemployed/Unskilled,8/4/2023,Acer,696.2725793,Rarely,Work,Start.,1,Advanced,No
+47111852,Joshua Taylor,sherry15@example.com,25,Small City,40494,Skilled Employee/official,4/25/2022,Apple,355.8666907,Rarely,Gaming,Only meet.,4,Intermediate,Yes
+19905298,David Montgomery,pmorgan@example.net,65,Small City,40482,Unemployed/Unskilled,5/1/2023,Dell,872.8315731,Rarely,Gaming,A.,1,Advanced,Yes
+25386331,Angela Richardson DDS,gary15@example.net,40,Small City,37568,Management/self-employed/highly qualified employee/officer,4/29/2020,Apple,1168.534766,Weekly,Entertainment,Feeling price.,5,Expert,No
+43938998,Gabrielle Garcia,adamsjerry@example.org,26,Big City,279225,Unemployed/Unskilled,3/24/2021,Acer,719.5056644,Weekly,Gaming,But.,2,Advanced,No
+12037184,Barry Ayala MD,claudiahall@example.net,18,Small City,37123,Unemployed/Unskilled,6/18/2020,Asus,426.4341102,Weekly,Work,Off.,2,Beginner,No
+33821986,Alyssa Melton,adkinsbrian@example.org,64,Small City,37703,Management/self-employed/highly qualified employee/officer,2/23/2022,Apple,619.2235875,Daily,Gaming,Room.,1,Beginner,No
+93031572,Ronald Ortiz,andrewcarroll@example.org,58,Small City,44530,Skilled Employee/official,4/17/2019,HP,464.7333439,Weekly,Work,Bring admit.,2,Beginner,Yes
+73742074,Melissa Guerrero,carolynmoore@example.com,27,Small City,36894,Management/self-employed/highly qualified employee/officer,6/20/2020,Acer,659.4869898,Daily,Entertainment,Enter.,3,Intermediate,No
+55936440,Melinda Butler,laura14@example.com,20,Small City,38745,Unemployed/Unskilled,12/19/2020,Acer,955.6067749,Rarely,Entertainment,Product experience.,5,Advanced,Yes
+85216975,Jennifer Jones,halldaniel@example.com,30,Midsize-City,66230,Skilled Employee/official,3/12/2022,Asus,1475.704745,Daily,Gaming,Site commercial.,4,Intermediate,Yes
+97438590,Hunter Robinson,taylorbriggs@example.com,18,Midsize-City,65115,Management/self-employed/highly qualified employee/officer,11/16/2020,Lenovo,1811.27596,Weekly,Work,Strategy thus.,5,Beginner,Yes
+71385899,Ryan Campbell,mcbriderebecca@example.org,61,Small City,42084,Skilled Employee/official,8/28/2019,Asus,1822.228565,Daily,Entertainment,Manage already.,4,Intermediate,Yes
+18945603,Antonio Taylor,melanie69@example.net,53,Big City,145945,Unemployed/Unskilled,3/27/2019,Apple,1222.507461,Weekly,Entertainment,Leave wish.,4,Intermediate,No
+69932000,Thomas Banks,ashleybell@example.com,63,Small City,38173,Skilled Employee/official,11/4/2022,HP,336.4193456,Daily,Work,To court.,4,Advanced,No
+44856069,Andrea Adkins,kristin57@example.com,26,Midsize-City,50455,Unemployed/Unskilled,7/23/2019,Asus,439.5814794,Weekly,Gaming,Detail thing.,5,Advanced,No
+47759267,Vanessa Wood,williamwang@example.com,68,Midsize-City,58673,Management/self-employed/highly qualified employee/officer,8/31/2022,Acer,1403.412615,Rarely,Gaming,Treatment especially.,3,Advanced,No
+56740146,Kenneth Phelps,othomas@example.org,44,Big City,254565,Management/self-employed/highly qualified employee/officer,12/12/2018,Lenovo,1585.232539,Daily,Work,Say political.,5,Expert,No
+64900241,Nicole Sandoval,johnsonmichelle@example.net,50,Midsize-City,58925,Skilled Employee/official,12/13/2018,Lenovo,971.1470307,Rarely,Entertainment,Lay rock.,4,Advanced,Yes
+53192157,Tiffany Dunlap,michael12@example.com,19,Small City,41525,Skilled Employee/official,5/18/2021,Acer,872.6763182,Weekly,Entertainment,Artist perform.,4,Advanced,Yes
+64262108,Grace Richardson,stevemack@example.com,62,Midsize-City,54347,Skilled Employee/official,6/25/2022,Acer,1758.118736,Rarely,Gaming,Impact.,3,Intermediate,No
+89135701,Jennifer York,matthew38@example.net,19,Small City,39876,Unemployed/Unskilled,12/30/2019,Lenovo,1631.278731,Weekly,Entertainment,Republican.,1,Expert,Yes
+84119704,Todd Mathis,alecpacheco@example.com,21,Small City,41914,Unemployed/Unskilled,6/4/2019,Lenovo,1730.624143,Weekly,Gaming,Director certain.,5,Beginner,Yes
+58819267,Brent Beltran,ivaughn@example.com,31,Midsize-City,64828,Management/self-employed/highly qualified employee/officer,2/15/2019,Asus,847.2919943,Rarely,Work,Step like.,4,Expert,Yes
+55709488,Karen Acosta,woodardalexandra@example.org,33,Small City,37523,Unemployed/Unskilled,7/4/2022,HP,918.2925182,Weekly,Entertainment,White do.,3,Beginner,Yes
+15138662,Samuel Hernandez,aburns@example.org,40,Big City,221667,Skilled Employee/official,4/8/2019,Dell,808.6544252,Rarely,Entertainment,Since senior.,3,Expert,Yes
+87023108,Christopher Newton,brandi72@example.org,23,Big City,96553,Management/self-employed/highly qualified employee/officer,2/20/2021,HP,1328.36464,Daily,Gaming,Mouth.,1,Intermediate,No
+58348975,Rodney Jones,thomasmatthew@example.com,61,Big City,249494,Skilled Employee/official,3/15/2020,Acer,1205.362098,Rarely,Work,Pm.,1,Intermediate,No
+86235949,Susan Stuart,fhall@example.com,37,Small City,35391,Skilled Employee/official,4/17/2019,Apple,984.0049183,Daily,Entertainment,Minute.,1,Intermediate,Yes
+91908555,Francisco Harris,ssmith@example.com,42,Big City,143239,Management/self-employed/highly qualified employee/officer,9/13/2019,Dell,669.3288262,Rarely,Entertainment,Cause majority.,5,Beginner,No
+35017789,Kathleen Davis,coledaniel@example.com,29,Small City,37525,Skilled Employee/official,9/5/2021,Lenovo,1096.346105,Rarely,Entertainment,Often.,2,Intermediate,No
+73627773,Natasha Lawson,qturner@example.org,21,Midsize-City,60098,Management/self-employed/highly qualified employee/officer,3/9/2020,HP,952.6245869,Daily,Entertainment,Green rest.,4,Expert,Yes
+46746926,Malik Aguirre,gatesdeborah@example.net,42,Midsize-City,46605,Management/self-employed/highly qualified employee/officer,1/7/2019,HP,951.5998771,Daily,Gaming,Price one.,2,Advanced,Yes
+89794939,Michele Brooks,thomasgreen@example.net,48,Midsize-City,59789,Skilled Employee/official,7/8/2020,Dell,1945.710782,Weekly,Entertainment,Remember.,2,Advanced,Yes
+39744182,Jennifer Williams,kimandre@example.net,51,Big City,254487,Skilled Employee/official,3/21/2023,Asus,637.0550407,Daily,Entertainment,Meet sell.,1,Expert,No
+88629968,Adam Aguilar,vjones@example.com,70,Small City,39829,Skilled Employee/official,12/4/2019,Apple,1010.682022,Daily,Entertainment,Off PM.,1,Advanced,Yes
+26355552,Anthony Hendrix,kimberly04@example.com,55,Big City,176312,Management/self-employed/highly qualified employee/officer,7/8/2019,Lenovo,1776.489386,Weekly,Entertainment,Couple will.,2,Expert,Yes
+84069169,Craig Long,eric62@example.net,69,Small City,39633,Management/self-employed/highly qualified employee/officer,6/11/2020,Asus,606.2169009,Weekly,Entertainment,Become.,4,Beginner,No
+19081471,Douglas Gordon,raymond52@example.net,31,Midsize-City,61520,Unemployed/Unskilled,4/27/2023,Apple,975.7375888,Weekly,Work,Law explain.,2,Intermediate,Yes
+62139563,Charles Herrera,hallbenjamin@example.com,65,Big City,284312,Management/self-employed/highly qualified employee/officer,7/7/2021,Dell,1590.99603,Daily,Work,Cost place.,4,Beginner,No
+80870055,Christine Williams,crystal62@example.net,66,Big City,295712,Management/self-employed/highly qualified employee/officer,10/10/2020,HP,1058.502941,Weekly,Gaming,Trouble audience.,2,Beginner,Yes
+84696150,Amy Fletcher,russellchristopher@example.com,70,Small City,42698,Management/self-employed/highly qualified employee/officer,4/8/2023,HP,1649.087345,Rarely,Gaming,Summer.,1,Expert,No
+75883769,Ricky Collier,zcox@example.org,45,Big City,249753,Unemployed/Unskilled,9/16/2023,Acer,1977.491759,Weekly,Work,Better.,5,Expert,No
+95139864,John Jordan,austin19@example.org,28,Small City,37564,Skilled Employee/official,9/5/2021,Apple,1422.11364,Weekly,Work,Page.,2,Advanced,Yes
+17066363,Vanessa Murphy,zreyes@example.net,59,Big City,215948,Unemployed/Unskilled,8/26/2019,Acer,1337.398635,Rarely,Entertainment,Environment.,4,Expert,Yes
+62885246,Rebecca Robertson,mroberts@example.com,50,Midsize-City,55173,Skilled Employee/official,7/22/2020,Apple,1369.20847,Rarely,Entertainment,Spend.,5,Advanced,Yes
+75995937,Timothy King,nielsenchristopher@example.org,61,Midsize-City,59129,Unemployed/Unskilled,8/12/2022,Dell,1987.973492,Daily,Work,She.,5,Expert,Yes
+14500354,Rebecca Mayer,williamduffy@example.com,50,Small City,35988,Skilled Employee/official,7/28/2019,Acer,764.0192308,Rarely,Entertainment,Avoid.,1,Advanced,Yes
+59607345,Michael Hall,medinarobert@example.net,53,Midsize-City,55477,Management/self-employed/highly qualified employee/officer,1/31/2022,Dell,1750.653708,Daily,Gaming,Take.,1,Expert,Yes
+95248873,Lynn Frost,catherineconway@example.net,67,Midsize-City,47390,Management/self-employed/highly qualified employee/officer,1/28/2019,Apple,1578.765745,Weekly,Gaming,Data significant.,1,Advanced,No
+27089064,Lisa Hodge,bakerbailey@example.com,68,Small City,44067,Unemployed/Unskilled,5/20/2020,Asus,960.9883701,Daily,Gaming,Kind.,3,Expert,Yes
+53772638,Christopher Lee,hartmiranda@example.org,44,Big City,189651,Management/self-employed/highly qualified employee/officer,3/15/2022,Apple,1235.226604,Rarely,Gaming,Coach single.,3,Beginner,No
+39162170,Katherine Cisneros,xlawson@example.net,32,Small City,40544,Unemployed/Unskilled,6/6/2023,Apple,506.110682,Rarely,Entertainment,Start maybe.,5,Intermediate,No
+53007311,Aaron Smith,carolyn36@example.net,69,Small City,38394,Management/self-employed/highly qualified employee/officer,2/2/2019,Dell,414.2060628,Weekly,Gaming,Possible.,3,Expert,Yes
+52615116,Joshua Carter,liuricky@example.org,61,Big City,152041,Skilled Employee/official,7/6/2021,Asus,1892.116631,Weekly,Entertainment,Prevent anyone.,2,Beginner,No
+21471132,Hannah Miller,jamiesalazar@example.net,42,Midsize-City,69569,Skilled Employee/official,2/22/2019,Lenovo,1356.007812,Weekly,Gaming,Cold account.,5,Beginner,Yes
+43017100,Teresa Kent,alexanderstewart@example.net,63,Midsize-City,57543,Skilled Employee/official,7/22/2022,Lenovo,1106.135466,Weekly,Gaming,Investment note.,5,Advanced,Yes
+38423886,Debbie Burnett,iwoods@example.com,24,Small City,36116,Unemployed/Unskilled,3/8/2023,Asus,534.7849893,Weekly,Gaming,Store.,4,Beginner,Yes
+47784907,Whitney Shepard,michellesimon@example.net,24,Big City,172761,Unemployed/Unskilled,5/29/2021,HP,648.4714737,Rarely,Work,Floor.,4,Advanced,Yes
+62939000,Barbara Wood,davidstrong@example.net,50,Big City,299672,Skilled Employee/official,12/7/2022,HP,722.802927,Weekly,Entertainment,Wish information.,1,Beginner,No
+54267585,Julia Casey,lopezdiana@example.com,34,Big City,142207,Skilled Employee/official,4/18/2019,Dell,631.4959032,Daily,Entertainment,White human.,1,Beginner,Yes
+10843195,David Stephens,durancharles@example.net,35,Midsize-City,60750,Unemployed/Unskilled,1/1/2023,HP,1390.391657,Daily,Work,Green full.,3,Expert,No
+66489445,Ryan Butler,pedwards@example.net,18,Midsize-City,48397,Skilled Employee/official,2/13/2020,Asus,712.6968368,Daily,Entertainment,Subject.,2,Expert,Yes
+35260555,Courtney Salazar,rebecca93@example.com,44,Midsize-City,67310,Skilled Employee/official,4/3/2020,Asus,1300.232452,Daily,Gaming,Pretty maintain.,1,Beginner,Yes
+53563433,Angel Roberts,peterhouston@example.org,39,Small City,39084,Unemployed/Unskilled,9/16/2021,Dell,848.2694536,Daily,Entertainment,School light.,4,Intermediate,No
+11277507,Angela Walker,zbrown@example.org,28,Big City,202516,Skilled Employee/official,8/22/2020,Asus,1090.409282,Weekly,Entertainment,Sign material.,4,Beginner,Yes
+73808379,Gina Webster,michele18@example.org,19,Big City,82301,Unemployed/Unskilled,4/22/2020,Dell,1435.552608,Daily,Work,All and.,5,Beginner,No
+10201686,Mitchell Dorsey,simsbrian@example.com,64,Midsize-City,66088,Management/self-employed/highly qualified employee/officer,3/11/2022,Acer,1359.670344,Daily,Work,Effort.,1,Intermediate,No
+82805704,Vincent Patel,edwardmccall@example.org,49,Midsize-City,58475,Skilled Employee/official,12/7/2018,HP,1452.129277,Rarely,Work,Moment.,5,Advanced,No
+46719951,Mary Ramirez,kimjaime@example.net,23,Big City,256708,Skilled Employee/official,11/1/2020,Acer,1032.926373,Weekly,Gaming,History.,1,Expert,No
+30675537,Katelyn Stewart,lglenn@example.org,28,Big City,183682,Skilled Employee/official,12/22/2021,Apple,755.107681,Weekly,Entertainment,Rule war.,3,Intermediate,Yes
+94150009,Katrina Rice,stevengreen@example.net,42,Midsize-City,65909,Management/self-employed/highly qualified employee/officer,1/23/2019,Lenovo,1074.061777,Daily,Gaming,Miss.,5,Advanced,Yes
+24835376,Elizabeth Hanson,mollysparks@example.org,60,Midsize-City,67683,Unemployed/Unskilled,1/30/2020,Apple,1113.583056,Rarely,Gaming,Bad.,4,Advanced,Yes
+95182788,Gregory Gillespie,dhayden@example.com,26,Midsize-City,66085,Skilled Employee/official,5/6/2019,Lenovo,1789.340698,Rarely,Work,Prevent radio.,5,Beginner,No
+35116005,Nicholas Torres,hunterjones@example.net,56,Midsize-City,50817,Unemployed/Unskilled,9/19/2019,HP,1709.449223,Rarely,Work,Lose.,2,Expert,No
+85743071,Debbie Rodriguez,ddecker@example.net,49,Small City,37520,Unemployed/Unskilled,5/30/2021,Apple,607.8543824,Rarely,Work,What.,5,Expert,Yes
+37130119,George Davis,theresabuchanan@example.net,62,Midsize-City,54977,Skilled Employee/official,7/23/2022,Dell,1537.206267,Rarely,Entertainment,Surface nearly.,3,Intermediate,No
+71551051,Jennifer Ayala,ramossheila@example.org,33,Midsize-City,68640,Skilled Employee/official,3/22/2019,Apple,1521.642109,Daily,Gaming,Year lawyer.,3,Beginner,No
+21015368,Luis Pratt Jr.,smartinez@example.com,27,Small City,39344,Management/self-employed/highly qualified employee/officer,4/10/2021,Lenovo,814.7980841,Daily,Entertainment,Degree home.,1,Expert,No
+39523871,Victoria Jones,contrerasmichael@example.org,54,Midsize-City,64890,Management/self-employed/highly qualified employee/officer,12/28/2018,Apple,1828.372288,Rarely,Work,During test.,4,Intermediate,No
+50365544,Sherri Fitzgerald,fostermatthew@example.com,66,Midsize-City,51491,Management/self-employed/highly qualified employee/officer,10/7/2018,HP,609.1162128,Weekly,Gaming,Study.,1,Advanced,Yes
+53961735,Megan Peters,ocummings@example.net,36,Small City,41805,Unemployed/Unskilled,12/3/2019,Apple,512.6711743,Rarely,Gaming,Visit.,2,Advanced,Yes
+28672895,Jennifer Hunt,codymathis@example.net,26,Big City,155954,Management/self-employed/highly qualified employee/officer,3/30/2023,Apple,416.1162621,Daily,Entertainment,Finish.,4,Intermediate,Yes
+66627087,Sarah Little,bryangarrett@example.net,51,Midsize-City,64642,Skilled Employee/official,1/1/2020,Dell,1253.042182,Rarely,Gaming,Somebody.,2,Expert,Yes
+76740597,Brooke Taylor,hayeschristina@example.net,59,Big City,214267,Management/self-employed/highly qualified employee/officer,8/9/2021,HP,1589.788118,Rarely,Gaming,Way simply.,3,Intermediate,No
+81193063,Madeline George,ericpadilla@example.net,30,Big City,131279,Unemployed/Unskilled,4/30/2023,Acer,904.8818946,Daily,Gaming,Term learn.,2,Expert,Yes
+32864296,John Cordova,fschneider@example.net,68,Small City,42001,Unemployed/Unskilled,3/29/2020,HP,468.8941876,Weekly,Work,Defense front.,3,Beginner,Yes
+56240953,Alexander Turner,edwardsloan@example.com,37,Midsize-City,60154,Skilled Employee/official,9/26/2020,Dell,1061.108845,Daily,Work,Take.,1,Expert,Yes
+47633882,Joyce Bush,hansontracey@example.net,65,Midsize-City,55705,Skilled Employee/official,3/4/2019,Apple,1214.830855,Weekly,Work,Option staff.,4,Advanced,No
+51042832,Amber Nash,cristiansimmons@example.com,45,Big City,73378,Skilled Employee/official,8/11/2020,Apple,1923.668935,Daily,Work,Only drive.,2,Intermediate,No
+21493966,Jacqueline Kennedy,deborah99@example.com,21,Small City,42277,Management/self-employed/highly qualified employee/officer,2/9/2022,HP,1519.941337,Rarely,Gaming,War anyone.,5,Expert,No
+20012265,Andrew Lambert,hunterstephanie@example.com,26,Midsize-City,53615,Management/self-employed/highly qualified employee/officer,8/2/2021,Acer,1931.452781,Rarely,Entertainment,Those.,2,Advanced,Yes
+32757195,Jeffrey Patterson,brian90@example.com,47,Midsize-City,62029,Unemployed/Unskilled,3/16/2021,Asus,821.2398491,Weekly,Gaming,Ready politics.,2,Advanced,Yes
+51217114,Anthony Jenkins,aaron07@example.org,35,Big City,298186,Skilled Employee/official,7/11/2023,Asus,1200.056131,Weekly,Entertainment,Free.,3,Advanced,No
+46575301,Crystal Meyer,jacksonlaura@example.net,28,Midsize-City,47512,Skilled Employee/official,8/6/2021,Dell,1175.200019,Daily,Work,Candidate.,2,Beginner,Yes
+69964737,Amber Stewart,mgarrett@example.net,65,Midsize-City,62473,Unemployed/Unskilled,4/21/2023,HP,1502.801312,Weekly,Gaming,Image.,3,Advanced,No
+38638307,Michael Barnes,hannah55@example.org,51,Big City,114979,Skilled Employee/official,5/28/2019,Acer,1641.151723,Weekly,Gaming,Gun guy.,5,Beginner,Yes
+96524135,Donald Payne,mariathompson@example.com,33,Midsize-City,68034,Management/self-employed/highly qualified employee/officer,2/3/2019,HP,872.3469801,Weekly,Entertainment,Big.,2,Advanced,Yes
+65384961,Sarah Ramirez,yolanda04@example.org,66,Small City,42607,Management/self-employed/highly qualified employee/officer,6/15/2021,Lenovo,1950.067845,Rarely,Gaming,General accept.,1,Intermediate,No
+64804524,Michael Lee,gbenton@example.net,56,Small City,36067,Management/self-employed/highly qualified employee/officer,9/23/2020,Acer,703.069271,Daily,Entertainment,Late letter.,2,Beginner,Yes
+94097882,Brandon Young,achavez@example.org,47,Big City,289800,Unemployed/Unskilled,3/28/2021,Apple,1293.671378,Daily,Gaming,How thus.,2,Beginner,No
+35436654,Jessica Garcia,brian97@example.com,24,Midsize-City,56778,Management/self-employed/highly qualified employee/officer,5/28/2020,Asus,695.5342318,Rarely,Gaming,Test president.,2,Beginner,No
+71535145,Andrea Huynh,rodrigueznorma@example.net,19,Small City,38442,Management/self-employed/highly qualified employee/officer,7/26/2020,Asus,1585.09581,Daily,Work,Avoid.,3,Expert,Yes
+58695693,Lisa Martin,tcampbell@example.net,26,Small City,40865,Management/self-employed/highly qualified employee/officer,8/1/2023,HP,1831.303916,Daily,Entertainment,Training.,4,Advanced,No
+38913791,John Wood,danielcox@example.net,55,Midsize-City,60215,Unemployed/Unskilled,8/22/2020,Lenovo,621.7061384,Rarely,Entertainment,Short.,5,Intermediate,Yes
+41014266,Anthony Crawford,scottrobin@example.net,31,Small City,44651,Skilled Employee/official,11/9/2020,Acer,1585.163485,Weekly,Gaming,Enter ten.,4,Intermediate,Yes
+56919627,Sandra Johnson,bradleyedwards@example.com,51,Midsize-City,56405,Unemployed/Unskilled,10/17/2019,Dell,1103.996633,Daily,Work,Decade.,4,Advanced,Yes
+75671998,Lauren Galloway,shorne@example.net,69,Small City,35359,Skilled Employee/official,10/14/2019,Apple,825.0778144,Weekly,Work,Issue age.,4,Expert,Yes
+21236558,Mr. Kevin Harvey MD,ycardenas@example.net,36,Midsize-City,68326,Unemployed/Unskilled,7/28/2022,Apple,1862.267301,Daily,Gaming,Population.,1,Advanced,No
+43618903,Sarah Lane,loricannon@example.net,38,Midsize-City,58702,Skilled Employee/official,11/6/2022,Apple,1866.064737,Rarely,Work,Provide tough.,2,Intermediate,No
+51695358,Brian Lewis,jessica37@example.org,51,Big City,107164,Skilled Employee/official,7/8/2021,Lenovo,595.4334791,Daily,Gaming,Among through.,4,Beginner,No
+75442880,Zachary Parker,gregorybradley@example.net,68,Big City,255610,Management/self-employed/highly qualified employee/officer,6/1/2020,Acer,1252.005261,Weekly,Gaming,Seem amount.,2,Intermediate,No
+39506407,Jason Robles,kcabrera@example.org,28,Big City,99270,Unemployed/Unskilled,11/26/2018,HP,1617.469681,Daily,Gaming,Thought nearly.,1,Intermediate,Yes
+69622206,Charles Brown,eobrien@example.net,49,Big City,72970,Unemployed/Unskilled,2/9/2023,Asus,1949.08358,Weekly,Work,Open.,1,Expert,No
+92585657,Jennifer Bell,gdavis@example.com,34,Small City,39795,Management/self-employed/highly qualified employee/officer,10/23/2020,Acer,1110.095849,Daily,Work,Himself themselves.,4,Advanced,Yes
+94061574,Erik Bradley,martin06@example.com,31,Big City,149199,Skilled Employee/official,7/20/2021,Asus,880.0288996,Daily,Gaming,Different support.,4,Advanced,Yes
+21776153,Cathy Collins,qbrooks@example.net,65,Big City,233094,Skilled Employee/official,5/17/2023,Acer,1952.302206,Weekly,Entertainment,Why why.,1,Intermediate,Yes
+67905662,Ashley Martin,cheryl49@example.com,54,Small City,37306,Skilled Employee/official,6/13/2022,Acer,526.2798618,Rarely,Entertainment,Plan.,3,Beginner,Yes
+51537816,Logan Davis,deborahbeasley@example.org,51,Midsize-City,60520,Management/self-employed/highly qualified employee/officer,9/25/2020,Apple,983.8211139,Rarely,Work,Amount.,2,Intermediate,Yes
+96289704,Joshua Scott MD,linda96@example.net,23,Small City,38640,Management/self-employed/highly qualified employee/officer,12/21/2020,Lenovo,1798.651627,Weekly,Gaming,Grow ball.,3,Beginner,No
+99669805,Amanda Hunt,perrystanley@example.org,34,Big City,168757,Skilled Employee/official,5/29/2020,Acer,597.6408576,Weekly,Entertainment,Audience.,3,Beginner,Yes
+90823951,Jessica Morales,lindajohnson@example.org,34,Midsize-City,63225,Management/self-employed/highly qualified employee/officer,1/25/2022,Apple,433.1091174,Rarely,Entertainment,Garden structure.,1,Intermediate,Yes
+42007236,Ricky Davis,christine62@example.org,38,Small City,42238,Management/self-employed/highly qualified employee/officer,10/27/2020,HP,1851.633804,Rarely,Work,Rock over.,2,Advanced,Yes
+71992071,Heidi Brady,johnsonmatthew@example.net,30,Midsize-City,54672,Management/self-employed/highly qualified employee/officer,12/17/2021,Lenovo,1850.464099,Rarely,Work,Method wish.,3,Beginner,No
+24316409,Janet Haynes,zli@example.org,51,Small City,41913,Management/self-employed/highly qualified employee/officer,8/31/2020,Asus,1820.301235,Rarely,Gaming,They alone.,1,Intermediate,No
+77837973,Gina Avery,lbaker@example.net,43,Big City,141437,Skilled Employee/official,2/9/2019,Lenovo,884.2101015,Weekly,Work,Real.,1,Advanced,No
+95195856,Brian Davis,mmorgan@example.org,30,Big City,196197,Management/self-employed/highly qualified employee/officer,11/17/2021,Asus,1891.090187,Daily,Work,Student.,5,Beginner,Yes
+96933098,Crystal Williams,kimberlyhernandez@example.net,19,Midsize-City,46869,Unemployed/Unskilled,1/9/2020,Apple,612.4527591,Rarely,Entertainment,Two meet.,5,Expert,No
+56933140,Michael Schneider,nandrade@example.com,33,Midsize-City,57669,Management/self-employed/highly qualified employee/officer,8/24/2020,Acer,562.2778453,Rarely,Entertainment,Body city.,5,Beginner,No
+82630944,Colton Curtis,michaelsmith@example.com,18,Midsize-City,50138,Unemployed/Unskilled,5/14/2021,Lenovo,1578.915005,Weekly,Gaming,Term.,2,Beginner,No
+74916543,Christina Richards,ugibson@example.net,56,Big City,159862,Unemployed/Unskilled,2/16/2023,Dell,1586.375845,Daily,Entertainment,Job.,4,Intermediate,No
+67663039,Donald Rasmussen,rebeccamiller@example.com,46,Small City,35627,Unemployed/Unskilled,7/1/2023,HP,632.229673,Rarely,Entertainment,Foreign gun.,2,Intermediate,Yes
+77704681,Jennifer Matthews,sharongreen@example.net,34,Big City,175358,Skilled Employee/official,9/26/2021,Asus,542.3917853,Weekly,Entertainment,Someone.,3,Expert,No
+65081747,Stephanie Taylor,gwise@example.com,66,Midsize-City,58679,Management/self-employed/highly qualified employee/officer,6/9/2022,Asus,1083.055489,Daily,Work,Contain early.,3,Beginner,No
+23633603,Sarah Rodriguez,barrerajoshua@example.org,26,Small City,41448,Unemployed/Unskilled,6/7/2019,Apple,1214.378976,Weekly,Work,Join.,3,Beginner,Yes
+74405375,Suzanne Lawrence,ambererickson@example.com,63,Small City,39652,Management/self-employed/highly qualified employee/officer,7/18/2023,HP,532.3159512,Rarely,Gaming,Now probably.,3,Beginner,Yes
+90167943,Jo Chen,parklaura@example.com,26,Midsize-City,48756,Skilled Employee/official,10/20/2020,HP,749.19905,Daily,Entertainment,While.,1,Intermediate,No
+63416479,Pamela Aguilar,david42@example.org,37,Small City,37124,Management/self-employed/highly qualified employee/officer,6/10/2019,Dell,610.9138662,Rarely,Gaming,Save beyond.,1,Beginner,Yes
+80520059,Kaitlyn Terry,iheath@example.com,58,Midsize-City,49385,Unemployed/Unskilled,8/27/2021,Lenovo,1533.27898,Daily,Gaming,Campaign health.,1,Expert,No
+13959709,Scott Nelson,vcollins@example.com,52,Small City,36200,Management/self-employed/highly qualified employee/officer,7/27/2019,HP,769.3257904,Rarely,Entertainment,Billion stop.,5,Expert,Yes
+35860269,Kelsey Ward,rcole@example.org,47,Midsize-City,61280,Management/self-employed/highly qualified employee/officer,6/16/2022,Lenovo,1018.795012,Rarely,Work,Form.,2,Expert,No
+27675796,Steven Miller,poncelarry@example.com,55,Big City,180520,Skilled Employee/official,6/20/2021,Apple,1772.316015,Rarely,Gaming,Maintain glass.,2,Expert,No
+73759338,William Schultz,uhenderson@example.com,20,Big City,223034,Unemployed/Unskilled,9/3/2020,Dell,1094.946526,Rarely,Work,Benefit.,1,Intermediate,No
+58932549,James Reid,estesmorgan@example.com,50,Small City,38887,Unemployed/Unskilled,2/19/2021,HP,1003.127799,Weekly,Work,Its who.,2,Beginner,Yes
+53783112,Christopher Cooke,diazdouglas@example.com,25,Big City,251668,Management/self-employed/highly qualified employee/officer,1/19/2022,HP,1162.38877,Rarely,Entertainment,Bad statement.,4,Beginner,No
+83061937,Casey Vazquez,foxashley@example.net,21,Big City,175896,Skilled Employee/official,8/28/2021,Asus,823.7259727,Weekly,Work,Gun like.,3,Intermediate,No
+53685196,Cindy Garcia,michael00@example.net,32,Big City,169936,Management/self-employed/highly qualified employee/officer,9/30/2020,Dell,578.5190439,Daily,Gaming,Civil best.,1,Expert,Yes
+84489029,Rebecca Maynard,stevensonbrian@example.org,26,Small City,40420,Management/self-employed/highly qualified employee/officer,9/1/2022,Acer,973.0003603,Daily,Work,Likely.,3,Intermediate,Yes
+13609266,Peter Dean,jasonbell@example.com,58,Big City,197587,Unemployed/Unskilled,4/26/2019,Apple,1824.048982,Rarely,Gaming,The.,3,Advanced,No
+40558591,Michael Velasquez,anthonybailey@example.org,30,Midsize-City,64097,Unemployed/Unskilled,12/13/2018,Dell,913.4992779,Rarely,Gaming,Forget.,5,Advanced,No
+28754930,Nancy Armstrong,marshallanthony@example.org,23,Midsize-City,62967,Management/self-employed/highly qualified employee/officer,4/22/2020,Acer,1896.720173,Weekly,Entertainment,Describe.,5,Beginner,Yes
+87717393,James Matthews,brockbrian@example.org,54,Big City,91136,Unemployed/Unskilled,4/17/2019,Asus,1440.382179,Daily,Entertainment,Need religious.,1,Beginner,Yes
+77760719,Caitlin Hampton,jenniferblack@example.com,58,Big City,73345,Skilled Employee/official,10/6/2022,Lenovo,1858.489374,Daily,Gaming,Boy poor.,4,Advanced,No
+20694770,Matthew Aguilar,joshuagardner@example.org,33,Small City,43097,Management/self-employed/highly qualified employee/officer,3/1/2023,Asus,1788.880442,Daily,Gaming,Environment while.,2,Advanced,Yes
+33241984,Randy Rivers,amarshall@example.net,28,Midsize-City,63584,Skilled Employee/official,11/20/2022,Lenovo,1706.00048,Weekly,Entertainment,Customer hot.,2,Beginner,No
+45501454,Jessica Perry,uwilliams@example.org,40,Big City,105160,Management/self-employed/highly qualified employee/officer,9/22/2022,Apple,882.9909721,Weekly,Entertainment,Lose.,3,Beginner,No
+93323258,Mark Mcgee,carol55@example.com,69,Midsize-City,58702,Unemployed/Unskilled,8/23/2019,Apple,1910.530238,Daily,Entertainment,Really.,1,Advanced,No
+41747921,Teresa Henry,shannonannette@example.com,49,Midsize-City,64439,Management/self-employed/highly qualified employee/officer,9/11/2021,HP,1218.564538,Rarely,Entertainment,Fine.,2,Expert,Yes
+29802477,Lisa Phillips,christophersullivan@example.org,66,Big City,154142,Unemployed/Unskilled,1/11/2023,HP,1758.003691,Daily,Entertainment,Remain ask.,3,Intermediate,Yes
+44901232,Courtney Kaufman,pamelasanchez@example.net,19,Small City,35691,Skilled Employee/official,1/16/2019,Asus,1323.114704,Weekly,Entertainment,Production yard.,3,Intermediate,Yes
+30212534,Timothy Kelly,nicole05@example.net,27,Small City,39860,Skilled Employee/official,5/24/2020,HP,1070.133722,Weekly,Entertainment,Trouble.,1,Beginner,Yes
+89562487,Thomas Barnes,gilmoremichael@example.com,69,Big City,156589,Unemployed/Unskilled,7/9/2019,HP,1323.394325,Weekly,Entertainment,Star have.,2,Advanced,No
+67927693,James Martinez,thompsonmichael@example.com,51,Big City,258954,Skilled Employee/official,3/19/2020,HP,465.8592867,Daily,Work,Report.,2,Advanced,Yes
+94558135,Rachael Maldonado,matthewgardner@example.org,49,Midsize-City,69211,Unemployed/Unskilled,1/28/2019,Acer,1001.223476,Rarely,Gaming,Throw.,1,Intermediate,No
+81364135,Crystal Gonzalez,christine85@example.net,21,Big City,104017,Management/self-employed/highly qualified employee/officer,10/16/2021,Acer,905.8515259,Weekly,Gaming,Research line.,3,Advanced,No
+48505256,Matthew Reid,james74@example.org,48,Big City,112189,Skilled Employee/official,5/1/2022,Lenovo,1298.27783,Weekly,Work,Congress.,1,Beginner,No
+83283262,Paul Harris,cruzarthur@example.org,67,Big City,103093,Unemployed/Unskilled,2/3/2021,Asus,1689.321608,Weekly,Work,Run out.,2,Advanced,Yes
+69433879,Jorge Garcia,wolfamy@example.org,56,Small City,44522,Unemployed/Unskilled,10/31/2022,Asus,723.6430449,Rarely,Gaming,Trial fast.,3,Intermediate,No
+44947081,James Hill,amandacarrillo@example.org,60,Midsize-City,63156,Unemployed/Unskilled,8/9/2023,HP,1170.863919,Weekly,Work,Kind score.,1,Advanced,No
+65177561,James Buchanan,jamespaul@example.com,25,Midsize-City,60975,Management/self-employed/highly qualified employee/officer,2/14/2020,Acer,1255.106364,Rarely,Work,Order worry.,3,Advanced,Yes
+94296424,Amanda Simpson,ronaldconway@example.net,50,Midsize-City,66198,Unemployed/Unskilled,9/9/2021,Lenovo,1554.986372,Daily,Gaming,Do story.,4,Intermediate,Yes
+87975570,Dana Love,katie09@example.net,69,Small City,42487,Unemployed/Unskilled,9/28/2020,Lenovo,1811.718008,Daily,Gaming,Worry four.,1,Beginner,Yes
+14826420,Matthew Johnson,cindywagner@example.com,26,Big City,119067,Skilled Employee/official,9/29/2021,Asus,1520.770545,Daily,Entertainment,Likely.,3,Beginner,No
+83726917,Madison Greer,alexkrause@example.net,18,Small City,40089,Management/self-employed/highly qualified employee/officer,10/24/2021,Lenovo,567.2606587,Rarely,Entertainment,We look.,1,Advanced,No
+45527573,Cody Kirk,briansolomon@example.com,31,Midsize-City,47388,Unemployed/Unskilled,9/1/2023,Apple,510.2500115,Weekly,Work,Ready hotel.,3,Advanced,No
+61484302,Erica Miller DDS,davidadams@example.net,51,Big City,215212,Skilled Employee/official,10/10/2022,Acer,1825.371298,Daily,Work,Rule.,3,Expert,No
+46461285,Andrew Nichols,denisemeyer@example.com,21,Midsize-City,69353,Unemployed/Unskilled,7/22/2022,Acer,1811.910389,Rarely,Work,Baby.,5,Beginner,Yes
+81811603,Gina Jackson,qmoore@example.org,40,Big City,236907,Management/self-employed/highly qualified employee/officer,4/14/2023,Acer,1587.34311,Weekly,Work,Television.,5,Expert,Yes
+72880200,Andrew Kennedy,johnsonnicholas@example.com,42,Midsize-City,59225,Skilled Employee/official,4/21/2019,HP,1334.272404,Daily,Gaming,Green police.,1,Intermediate,No
+40334618,Elizabeth Henderson,jamessanchez@example.org,65,Small City,38584,Management/self-employed/highly qualified employee/officer,9/7/2019,HP,953.8361789,Rarely,Work,Also.,4,Intermediate,Yes
+94705859,Mario Ramos,collinsangela@example.org,52,Midsize-City,57724,Management/self-employed/highly qualified employee/officer,3/23/2022,Acer,1167.8225,Daily,Work,Mr.,2,Advanced,No
+13814935,William Anderson,sullivanhannah@example.com,67,Midsize-City,59067,Management/self-employed/highly qualified employee/officer,7/7/2023,Acer,952.7997198,Rarely,Gaming,Coach recent.,4,Expert,No
+38069209,Sheila Chambers,lauren86@example.net,47,Midsize-City,53774,Skilled Employee/official,3/19/2022,Lenovo,308.2877456,Daily,Gaming,Recently box.,1,Beginner,Yes
+46125500,Garrett Smith,mckeehannah@example.com,26,Big City,116627,Management/self-employed/highly qualified employee/officer,2/24/2020,HP,1473.525444,Rarely,Work,Receive population.,2,Beginner,No
+98774108,William Anderson,michael61@example.net,31,Big City,228232,Unemployed/Unskilled,5/20/2022,Dell,1537.486453,Weekly,Work,Current thousand.,2,Intermediate,Yes
+73064662,Alicia Lucas,jeremyjones@example.com,62,Big City,156061,Management/self-employed/highly qualified employee/officer,7/13/2020,Lenovo,1603.475359,Weekly,Work,Opportunity visit.,4,Advanced,No
+44569687,Lauren Harris,sharon28@example.org,23,Midsize-City,56461,Management/self-employed/highly qualified employee/officer,1/13/2019,Asus,1571.393639,Daily,Entertainment,Entire else.,2,Expert,No
+91561518,Megan Miller,harpertina@example.org,18,Small City,40158,Skilled Employee/official,12/23/2020,Dell,1076.159842,Daily,Gaming,Including wall.,1,Beginner,No
+80184611,Andrew Kennedy,bowmanalyssa@example.net,27,Big City,190621,Unemployed/Unskilled,1/26/2022,Acer,676.726712,Daily,Gaming,Customer.,1,Beginner,Yes
+28815182,Raymond Cole,wilsonmichael@example.net,47,Small City,38120,Skilled Employee/official,12/29/2021,Acer,968.70587,Rarely,Work,Three.,1,Advanced,Yes
+38799976,Leonard Glenn,jasonwalter@example.com,24,Small City,35345,Management/self-employed/highly qualified employee/officer,6/7/2023,Lenovo,1496.183976,Rarely,Gaming,Somebody story.,1,Advanced,No
+81173044,Brandi Jackson,ulee@example.org,22,Big City,106335,Management/self-employed/highly qualified employee/officer,2/8/2019,Asus,944.7079599,Daily,Gaming,Husband clearly.,1,Expert,Yes
+88345578,John Jones,joshua23@example.com,50,Small City,37811,Unemployed/Unskilled,10/17/2022,HP,620.600495,Daily,Gaming,Anything.,1,Beginner,Yes
+15859961,Michael Murphy,hopkinsrobin@example.org,55,Big City,82979,Unemployed/Unskilled,2/9/2023,Dell,1855.167901,Weekly,Work,Magazine.,3,Beginner,No
+80150906,Michael Patterson,qbates@example.net,45,Small City,38061,Unemployed/Unskilled,2/22/2021,Apple,391.8908182,Rarely,Work,Rest develop.,5,Intermediate,No
+95395424,Brandi Farrell,ianvaldez@example.com,29,Small City,41534,Skilled Employee/official,4/9/2020,Lenovo,649.3444871,Daily,Gaming,Much herself.,5,Expert,Yes
+35531939,Lisa Guerrero,pricedonna@example.org,22,Midsize-City,68882,Unemployed/Unskilled,9/21/2023,Acer,1099.500505,Rarely,Work,Collection information.,5,Beginner,No
+99170891,Daniel Johnson,marquezdaniel@example.com,66,Midsize-City,57488,Unemployed/Unskilled,1/30/2019,Lenovo,1608.38186,Daily,Work,Late.,4,Advanced,No
+25500330,Christopher Hammond,jessica82@example.org,33,Big City,255726,Management/self-employed/highly qualified employee/officer,3/26/2023,Apple,745.486115,Weekly,Gaming,Lead develop.,5,Expert,No
+11950168,Erin Huff,matthewbuckley@example.com,50,Small City,38049,Skilled Employee/official,4/6/2022,Acer,1725.209569,Rarely,Gaming,Person.,2,Advanced,No
+33676162,Zachary Hebert,nicole23@example.net,34,Big City,267137,Skilled Employee/official,5/5/2021,Acer,1671.611734,Daily,Entertainment,Tough artist.,3,Intermediate,Yes
+57978965,Ryan Jimenez,schmidtcynthia@example.net,22,Big City,93799,Management/self-employed/highly qualified employee/officer,1/3/2023,HP,687.0551802,Weekly,Gaming,No.,2,Expert,Yes
+31101433,Diane Cobb DVM,kristin16@example.com,60,Small City,43420,Unemployed/Unskilled,12/22/2022,Apple,753.5241448,Weekly,Gaming,Marriage.,4,Advanced,Yes
+71301144,Kim Anderson,kward@example.org,28,Big City,124441,Skilled Employee/official,5/13/2021,Acer,999.6128137,Weekly,Entertainment,Care.,4,Advanced,Yes
+81654824,Jessica Johnson,xballard@example.com,69,Midsize-City,58210,Skilled Employee/official,9/14/2020,Apple,420.816333,Rarely,Work,Try.,1,Advanced,Yes
+73922702,Pamela Smith,kevin14@example.org,19,Small City,35992,Unemployed/Unskilled,5/4/2019,Lenovo,1034.688102,Rarely,Work,Give.,2,Beginner,No
+78477644,Joseph Wilson DVM,zwarren@example.net,21,Small City,39514,Skilled Employee/official,7/24/2023,Apple,1539.456072,Weekly,Work,Administration.,3,Beginner,No
+14668839,Steven Richardson,brandonperry@example.com,23,Small City,36111,Skilled Employee/official,1/27/2019,HP,990.9029574,Rarely,Work,Half major.,2,Expert,No
+91116306,Glenn Roman,cooleylarry@example.com,70,Midsize-City,65159,Skilled Employee/official,4/1/2019,Acer,1457.465281,Daily,Entertainment,But professor.,2,Expert,No
+11390369,Michael Horne,benitezdonna@example.org,56,Big City,272842,Management/self-employed/highly qualified employee/officer,10/1/2018,HP,1319.583956,Rarely,Work,Rock board.,4,Intermediate,Yes
+19431898,Carla Lopez,james75@example.com,34,Midsize-City,69295,Management/self-employed/highly qualified employee/officer,9/10/2020,Asus,1162.900186,Daily,Entertainment,Perform doctor.,1,Beginner,Yes
+84121491,Hannah Price,burchgregory@example.com,30,Small City,44013,Management/self-employed/highly qualified employee/officer,12/15/2020,Asus,1598.547922,Rarely,Gaming,Image world.,4,Advanced,Yes
+58585666,Stephen Garcia,vgarcia@example.com,68,Midsize-City,61538,Skilled Employee/official,4/22/2019,Dell,971.0845117,Rarely,Gaming,Always often.,3,Expert,No
+31126016,Cesar Brown,elozano@example.org,48,Big City,148005,Management/self-employed/highly qualified employee/officer,12/11/2018,Lenovo,656.4464158,Rarely,Entertainment,Office.,3,Beginner,Yes
+55033517,Melissa Bond,vcampbell@example.com,64,Big City,208323,Management/self-employed/highly qualified employee/officer,6/5/2020,Lenovo,1617.545404,Daily,Gaming,Table entire.,5,Advanced,No
+13859547,Sabrina Grimes,sjohnson@example.com,36,Midsize-City,67545,Skilled Employee/official,5/11/2023,Lenovo,1809.180818,Weekly,Work,Political.,3,Beginner,No
+20193539,James Paul,adam82@example.com,38,Small City,39738,Unemployed/Unskilled,8/7/2021,Asus,1713.813885,Daily,Work,Better property.,4,Expert,No
+21555172,Tonya Smith,melissa46@example.net,43,Big City,280177,Management/self-employed/highly qualified employee/officer,5/17/2023,Lenovo,1791.163488,Daily,Gaming,Speak probably.,2,Intermediate,No
+87117649,Joshua Hardin,jerry65@example.com,37,Midsize-City,67856,Skilled Employee/official,1/29/2019,Dell,1891.485009,Rarely,Gaming,Leader big.,1,Beginner,No
+88487785,Steven Park,kimrebecca@example.net,52,Midsize-City,61339,Management/self-employed/highly qualified employee/officer,4/4/2021,Lenovo,1379.97954,Rarely,Work,Possible kind.,3,Advanced,No
+81523182,Mitchell Carr,timothy33@example.net,56,Midsize-City,66131,Skilled Employee/official,12/14/2021,Dell,387.0476455,Daily,Entertainment,Success watch.,2,Expert,Yes
+86952510,Scott Stokes,austin09@example.com,56,Big City,221623,Unemployed/Unskilled,8/14/2022,Dell,1789.471847,Rarely,Gaming,Reduce.,5,Expert,Yes
+98747090,Aaron Johnson,jonathan24@example.org,44,Small City,35507,Unemployed/Unskilled,11/9/2022,Asus,1977.050998,Weekly,Gaming,See history.,5,Intermediate,No
+71153949,John Sullivan,sarajones@example.org,42,Midsize-City,46684,Unemployed/Unskilled,5/9/2022,Lenovo,776.7939654,Daily,Entertainment,Will.,1,Intermediate,No
+17142340,Sharon Crane,andersonmeghan@example.com,62,Midsize-City,59226,Management/self-employed/highly qualified employee/officer,9/16/2022,Acer,1842.890393,Daily,Gaming,Would.,4,Beginner,Yes
+29274234,Julie Wolf,hornecheryl@example.net,68,Midsize-City,55121,Management/self-employed/highly qualified employee/officer,4/3/2020,Lenovo,1313.099326,Weekly,Work,Miss.,1,Advanced,Yes
+72863080,Toni Gibson,rschneider@example.com,18,Small City,41645,Management/self-employed/highly qualified employee/officer,8/14/2022,Dell,1768.352695,Daily,Work,Door.,3,Expert,No
+20205437,Jennifer Chase,jessica19@example.net,65,Midsize-City,68239,Skilled Employee/official,12/1/2021,HP,693.3318779,Weekly,Gaming,Foreign.,4,Beginner,No
+97607007,Sarah Brock,reyesmikayla@example.com,68,Big City,250915,Unemployed/Unskilled,1/27/2019,Apple,330.4031658,Daily,Entertainment,Method.,3,Advanced,Yes
+10310452,Melanie Reed,sloanerin@example.net,55,Big City,144776,Management/self-employed/highly qualified employee/officer,12/26/2022,Asus,904.9558425,Rarely,Gaming,Step.,4,Beginner,No
+82582017,Steven Smith,ygordon@example.org,33,Big City,281713,Unemployed/Unskilled,4/4/2022,Apple,1006.652717,Rarely,Entertainment,See.,2,Expert,Yes
+62763607,Darryl Gonzalez,franklingregory@example.com,28,Midsize-City,62560,Unemployed/Unskilled,11/1/2022,Lenovo,1619.373786,Daily,Gaming,Energy.,3,Expert,Yes
+73307351,Allen Moreno,orobertson@example.net,19,Midsize-City,56491,Skilled Employee/official,5/30/2023,HP,304.6071287,Weekly,Work,Scene.,5,Intermediate,Yes
+76257068,Lauren Nguyen MD,edwardgrimes@example.com,18,Small City,36557,Skilled Employee/official,9/28/2021,Asus,700.2148019,Rarely,Entertainment,Only.,5,Intermediate,Yes
+98764580,Bobby Weaver,adam55@example.org,50,Big City,198740,Skilled Employee/official,11/22/2018,Dell,745.6883874,Daily,Entertainment,Leader.,2,Beginner,Yes
+70807880,Douglas Watson,kristin97@example.com,48,Big City,116787,Unemployed/Unskilled,9/27/2019,Dell,1679.0705,Daily,Gaming,Growth whose.,3,Intermediate,Yes
+21502577,Adriana Daniel,ramirezvincent@example.org,22,Big City,128562,Skilled Employee/official,8/31/2020,Acer,808.2017736,Rarely,Work,Spring.,2,Advanced,Yes
+84001177,Anthony Hudson,david09@example.com,34,Small City,35062,Unemployed/Unskilled,4/7/2022,Apple,1917.481183,Weekly,Entertainment,Require box.,5,Beginner,Yes
+24869901,Tammy Taylor,lisa36@example.net,48,Midsize-City,48080,Management/self-employed/highly qualified employee/officer,9/2/2021,Apple,637.9813544,Rarely,Entertainment,Seat seek.,3,Advanced,No
+40577971,Kevin Davis,petersonscott@example.com,40,Small City,35940,Skilled Employee/official,2/6/2019,Acer,1434.423733,Weekly,Entertainment,Get together.,5,Beginner,Yes
+43142737,Taylor Johnson,montgomerydouglas@example.org,41,Big City,286744,Unemployed/Unskilled,10/19/2018,Dell,1642.925069,Daily,Work,Think.,1,Advanced,No
+72726635,Zachary Thomas,shannondixon@example.org,57,Small City,39610,Unemployed/Unskilled,12/7/2019,Acer,1171.216472,Rarely,Gaming,Prevent.,5,Beginner,No
+26174719,Amber Underwood,charles46@example.org,42,Big City,169165,Unemployed/Unskilled,12/11/2022,Dell,1290.601948,Weekly,Work,System adult.,2,Beginner,Yes
+33141309,Timothy Martin,tylerdalton@example.net,49,Big City,170456,Skilled Employee/official,7/27/2020,Acer,752.7106263,Rarely,Gaming,Behind machine.,5,Expert,No
+43630526,Bradley Padilla,fjones@example.com,21,Big City,232972,Management/self-employed/highly qualified employee/officer,8/10/2022,Lenovo,1082.19283,Weekly,Entertainment,Campaign.,2,Beginner,Yes
+22210459,Amy Morales,newmandaniel@example.com,45,Small City,38327,Management/self-employed/highly qualified employee/officer,10/11/2018,HP,1522.536637,Rarely,Gaming,Since.,2,Expert,No
+54085472,Andrew Smith,fosterdouglas@example.net,33,Small City,41356,Management/self-employed/highly qualified employee/officer,10/29/2020,HP,991.1917942,Weekly,Gaming,Environmental year.,5,Advanced,No
+17812858,Juan Keller,phorton@example.net,64,Midsize-City,59646,Unemployed/Unskilled,7/5/2019,Dell,1950.518267,Rarely,Gaming,Industry experience.,1,Expert,Yes
+13218593,Jason Turner,farmercarla@example.net,51,Big City,289463,Management/self-employed/highly qualified employee/officer,3/15/2019,Apple,977.3622648,Weekly,Entertainment,Book.,3,Beginner,Yes
+38203563,Amanda Massey,hallmichael@example.net,67,Big City,95644,Management/self-employed/highly qualified employee/officer,9/1/2023,Dell,519.2671002,Daily,Entertainment,Third different.,4,Beginner,No
+44834027,Wayne Mckinney,benjaminbrown@example.net,44,Midsize-City,49285,Management/self-employed/highly qualified employee/officer,6/15/2022,Lenovo,1314.30615,Daily,Entertainment,Position.,1,Advanced,Yes
+73486145,Daniel Boyd,ramoswilliam@example.com,49,Midsize-City,60567,Management/self-employed/highly qualified employee/officer,1/27/2020,Dell,1795.766095,Weekly,Entertainment,Up magazine.,3,Intermediate,Yes
+56374486,Jennifer Green,erikfaulkner@example.org,33,Big City,160132,Management/self-employed/highly qualified employee/officer,11/18/2020,Dell,731.8590717,Daily,Work,Population last.,2,Beginner,No
+28591309,Beth Carter,awhite@example.com,66,Small City,41234,Skilled Employee/official,9/29/2020,HP,1960.988371,Daily,Gaming,Movement daughter.,5,Expert,Yes
+17402682,Ronald Brewer,johnsonlaura@example.org,46,Midsize-City,66853,Unemployed/Unskilled,10/20/2019,HP,1653.777346,Rarely,Entertainment,Cup.,2,Beginner,Yes
+88854205,Donna Price,lgreene@example.org,36,Small City,37010,Skilled Employee/official,9/16/2022,Apple,949.0897997,Weekly,Entertainment,Dark.,3,Expert,Yes
+10638280,Laura Gardner,krocha@example.com,50,Big City,88912,Unemployed/Unskilled,6/17/2020,Dell,1804.505191,Weekly,Gaming,Story reason.,2,Advanced,No
+45070084,Elizabeth Johnson,kathrynharvey@example.net,62,Small City,38702,Unemployed/Unskilled,12/9/2022,Acer,501.3765486,Weekly,Gaming,Throughout.,3,Beginner,Yes
+29615629,Zoe Mitchell,jennifercontreras@example.com,66,Big City,91922,Skilled Employee/official,12/6/2019,Apple,358.244859,Daily,Work,Lot better.,1,Advanced,No
+89119970,Ryan Beard,stephaniebradford@example.org,21,Midsize-City,59906,Management/self-employed/highly qualified employee/officer,8/28/2020,Dell,1282.568906,Daily,Work,We daughter.,1,Advanced,No
+89496321,Mary Sandoval,daniel88@example.com,51,Midsize-City,64192,Skilled Employee/official,6/26/2020,Apple,366.8693232,Weekly,Gaming,Improve your.,2,Beginner,No
+86132269,Julie Cunningham,adam03@example.org,46,Small City,39550,Unemployed/Unskilled,8/22/2022,HP,801.6534078,Rarely,Work,Son real.,3,Intermediate,No
+86704383,Brian Silva,zacharyjackson@example.org,37,Big City,260864,Management/self-employed/highly qualified employee/officer,4/5/2022,HP,1260.823335,Weekly,Gaming,Whole.,3,Expert,Yes
+12679136,Jose Hurst,mccoymathew@example.org,57,Small City,43404,Skilled Employee/official,9/29/2020,HP,705.8289529,Weekly,Gaming,Popular positive.,5,Beginner,Yes
+31315539,Kaitlin Martin,michaelscott@example.org,54,Midsize-City,63242,Skilled Employee/official,2/10/2020,Apple,659.447605,Rarely,Gaming,My.,2,Beginner,Yes
+42981345,Sarah Wood,michaeladams@example.com,54,Big City,248594,Management/self-employed/highly qualified employee/officer,11/24/2020,Acer,841.1119123,Rarely,Work,Now budget.,4,Intermediate,No
+49707198,Barbara Washington,roseapril@example.net,46,Small City,44582,Management/self-employed/highly qualified employee/officer,8/31/2020,Lenovo,1704.053098,Daily,Gaming,Send figure.,2,Beginner,No
+64693964,Kelly Vazquez,wdurham@example.org,45,Midsize-City,49888,Management/self-employed/highly qualified employee/officer,6/21/2020,Dell,691.1433873,Rarely,Work,Page.,4,Beginner,Yes
+29871439,James Wilson,micheal93@example.net,29,Big City,147813,Skilled Employee/official,12/29/2020,HP,828.6721435,Rarely,Work,Draw.,3,Intermediate,No
+82403564,Ronald Stone,gcollins@example.net,23,Big City,164589,Skilled Employee/official,10/28/2019,Dell,1683.74445,Weekly,Work,Star go.,2,Advanced,Yes
+55444427,Miranda Glass,rick35@example.org,40,Midsize-City,63658,Management/self-employed/highly qualified employee/officer,6/28/2023,Apple,1395.863332,Rarely,Gaming,Oil.,1,Beginner,No
+45912430,Michele Bernard,toni67@example.com,41,Small City,35346,Unemployed/Unskilled,8/30/2020,Apple,1844.560036,Daily,Work,Argue future.,5,Advanced,Yes
+66544267,Wesley Goodwin,angela32@example.net,48,Small City,42220,Unemployed/Unskilled,8/26/2019,Apple,1163.963111,Daily,Entertainment,Determine.,1,Expert,No
+49506878,Brian Hudson,thorntoncory@example.org,48,Midsize-City,47183,Unemployed/Unskilled,7/17/2022,Acer,1653.639202,Daily,Entertainment,Republican.,1,Advanced,No
+80153987,Eileen Cole,benjamin97@example.org,38,Midsize-City,66599,Unemployed/Unskilled,3/14/2023,Dell,888.5883333,Weekly,Entertainment,Ability music.,5,Advanced,Yes
+92790200,Shannon Love,ecollins@example.com,20,Midsize-City,68702,Skilled Employee/official,2/17/2020,HP,1331.085628,Weekly,Work,Seek course.,3,Expert,No
+71669897,Michael Hale,miguelanderson@example.com,40,Midsize-City,52856,Unemployed/Unskilled,2/14/2023,Asus,1477.008815,Rarely,Entertainment,Need century.,2,Advanced,No
+21613279,Scott Shaw,reevescarol@example.org,39,Big City,191743,Skilled Employee/official,1/31/2022,HP,922.3236562,Weekly,Work,Yourself smile.,4,Expert,Yes
+51512671,Frederick Baker,shawn81@example.net,60,Small City,39266,Management/self-employed/highly qualified employee/officer,10/5/2021,Apple,689.0652254,Daily,Work,Public set.,4,Expert,Yes
+87624443,Sharon Bishop,carrie54@example.net,18,Big City,121287,Management/self-employed/highly qualified employee/officer,3/23/2020,Dell,1255.853173,Weekly,Entertainment,Benefit.,1,Beginner,Yes
+92130121,Jessica Anderson,catherine15@example.com,24,Small City,42700,Unemployed/Unskilled,3/20/2023,Lenovo,475.065579,Rarely,Gaming,Cold sometimes.,4,Intermediate,Yes
+84670697,Gary Turner,flowersvictoria@example.net,43,Big City,166404,Unemployed/Unskilled,4/23/2022,Apple,842.2273532,Daily,Gaming,News receive.,5,Intermediate,Yes
+65071260,Jonathan Gill,cnewman@example.org,68,Midsize-City,64579,Unemployed/Unskilled,11/13/2019,Dell,1829.393091,Weekly,Work,Card near.,3,Expert,Yes
+54886907,Gabriella Miles,james67@example.net,39,Small City,39592,Management/self-employed/highly qualified employee/officer,2/18/2019,Lenovo,1633.727856,Weekly,Work,Week admit.,3,Intermediate,No
+66865073,Angela Bell,sarah80@example.com,60,Midsize-City,62757,Management/self-employed/highly qualified employee/officer,2/24/2021,HP,1077.466314,Daily,Gaming,Such glass.,5,Beginner,Yes
+39126771,Isaiah James,silvakimberly@example.com,32,Midsize-City,46157,Skilled Employee/official,7/12/2021,Asus,1478.789618,Rarely,Work,Seek live.,1,Beginner,Yes
+12744666,Andrea Henderson,lwilliams@example.com,36,Midsize-City,58023,Unemployed/Unskilled,3/10/2021,Dell,1102.860169,Rarely,Entertainment,End.,4,Beginner,No
+69626394,Thomas Barker,wsilva@example.org,35,Small City,43401,Unemployed/Unskilled,10/27/2019,HP,1711.31885,Weekly,Gaming,Reduce east.,5,Expert,No
+21223464,Lori Estes,kjohnson@example.com,55,Midsize-City,60702,Unemployed/Unskilled,6/26/2020,Dell,1166.145934,Daily,Entertainment,Officer.,1,Advanced,Yes
+59812238,Alex Riley,rchambers@example.com,46,Small City,43518,Management/self-employed/highly qualified employee/officer,7/23/2023,Dell,975.2025507,Daily,Work,Fast music.,2,Beginner,Yes
+47324528,Sean Chung,bethany87@example.org,37,Midsize-City,46889,Unemployed/Unskilled,8/9/2022,Asus,1738.613384,Daily,Gaming,Will yourself.,3,Beginner,No
+98263112,Joseph Duncan,iconrad@example.org,70,Midsize-City,69677,Unemployed/Unskilled,5/23/2020,HP,690.1079897,Daily,Gaming,Test.,4,Expert,No
+13683482,Corey Gomez,walter52@example.org,40,Big City,148487,Unemployed/Unskilled,12/1/2020,Dell,1824.103164,Weekly,Work,On.,1,Intermediate,No
+82572970,Rebekah Davis,stacy02@example.org,45,Small City,42601,Skilled Employee/official,5/25/2023,HP,1181.106114,Daily,Entertainment,House recently.,1,Advanced,Yes
+60302398,Jacqueline Esparza,roachstephanie@example.net,36,Big City,254431,Skilled Employee/official,9/17/2021,Dell,994.6552588,Daily,Gaming,Behind institution.,5,Advanced,No
+56503677,Richard Snow,cherylmckinney@example.net,53,Big City,188473,Management/self-employed/highly qualified employee/officer,8/29/2019,Acer,1371.172968,Daily,Gaming,Her.,1,Beginner,No
+40322904,Mr. Fernando Gonzales,greenechristine@example.com,23,Midsize-City,46190,Unemployed/Unskilled,6/10/2020,Lenovo,1270.092468,Daily,Work,It quickly.,2,Beginner,Yes
+28968514,Allison Figueroa,andersonaudrey@example.org,57,Big City,273586,Skilled Employee/official,2/18/2020,HP,983.9971762,Rarely,Work,Whom.,2,Advanced,Yes
+99106338,Amanda Frederick,smithrebecca@example.org,35,Midsize-City,58393,Skilled Employee/official,12/16/2018,Lenovo,1900.691548,Rarely,Entertainment,Kid.,4,Beginner,Yes
+43867180,Ashley Hughes,enorton@example.net,56,Small City,43102,Unemployed/Unskilled,8/16/2019,Asus,692.3173668,Rarely,Entertainment,Way however.,3,Advanced,No
+56471676,Desiree Carter,reedkatie@example.org,18,Small City,43316,Unemployed/Unskilled,7/19/2022,Acer,1416.990484,Daily,Gaming,Page happen.,2,Intermediate,Yes
+18942607,Robert Smith,jenna94@example.net,70,Midsize-City,60543,Skilled Employee/official,6/16/2021,Lenovo,574.2777837,Daily,Work,Participant majority.,4,Intermediate,Yes
+34789349,Peter Mayer,goldenstephanie@example.org,61,Midsize-City,55747,Skilled Employee/official,9/8/2022,Apple,1656.977734,Rarely,Entertainment,City power.,3,Beginner,No
+57511985,Joyce Long,perkinsmichael@example.org,58,Small City,36983,Unemployed/Unskilled,11/24/2018,HP,1150.26746,Rarely,Entertainment,Thank.,4,Advanced,No
+40964470,Diana Garrett,wanda27@example.net,38,Midsize-City,63475,Unemployed/Unskilled,3/15/2023,Lenovo,1914.373508,Daily,Work,Trip strong.,3,Intermediate,No
+24955179,Andrew Finley,jacobbishop@example.org,30,Midsize-City,62550,Unemployed/Unskilled,9/10/2021,HP,350.6657851,Rarely,Work,No very.,5,Advanced,Yes
+54671087,Mrs. Jennifer Boyle MD,brianna29@example.org,46,Big City,121576,Management/self-employed/highly qualified employee/officer,6/28/2023,Lenovo,1708.960083,Rarely,Work,Record.,2,Intermediate,Yes
+88617891,Michelle Beasley MD,jimmy27@example.net,55,Small City,39441,Skilled Employee/official,3/22/2022,Asus,1975.516192,Rarely,Gaming,Treat claim.,2,Advanced,Yes
+24498456,Deborah Beck,samanthaglover@example.com,36,Midsize-City,57282,Management/self-employed/highly qualified employee/officer,9/7/2020,Dell,1823.652744,Weekly,Entertainment,Agency.,4,Beginner,No
+83857003,Michelle Wallace,anna00@example.org,41,Small City,40306,Management/self-employed/highly qualified employee/officer,9/30/2020,Dell,463.0142296,Daily,Gaming,Black.,3,Advanced,Yes
+90134831,Timothy Wise,juliewood@example.org,59,Midsize-City,54184,Skilled Employee/official,3/16/2019,Dell,582.9598038,Weekly,Entertainment,Rich action.,1,Beginner,Yes
+76029881,Jonathan Oliver,bradleywilliams@example.org,67,Midsize-City,47049,Skilled Employee/official,5/16/2022,Apple,1875.734401,Rarely,Work,Conference.,2,Intermediate,No
+67572141,James Alexander,xlopez@example.com,46,Big City,108329,Unemployed/Unskilled,1/6/2022,Acer,1802.460667,Daily,Work,Staff hospital.,4,Expert,Yes
+59932633,Jorge Brown,wilsonjulia@example.org,25,Small City,36956,Skilled Employee/official,9/28/2021,HP,798.4281731,Rarely,Gaming,Strong.,4,Beginner,Yes
+51227822,Tamara Gonzales,carolyn55@example.org,40,Midsize-City,57196,Unemployed/Unskilled,4/28/2019,Acer,1236.128713,Weekly,Work,Cost them.,4,Advanced,No
+69696301,Michael Silva,ilopez@example.com,44,Big City,186177,Skilled Employee/official,12/27/2020,HP,1951.555609,Rarely,Work,Close.,4,Beginner,Yes
+98327473,Timothy Johnson,rchaney@example.org,34,Midsize-City,61086,Skilled Employee/official,5/16/2021,HP,966.1704824,Weekly,Work,Truth particularly.,2,Intermediate,Yes
+60647312,Miss Brooke Lopez,adamsjose@example.net,68,Small City,40011,Skilled Employee/official,10/2/2019,Acer,1515.824023,Weekly,Gaming,Day.,5,Advanced,No
+68589349,Bethany Johnson,xmoore@example.com,45,Big City,214533,Unemployed/Unskilled,10/2/2021,Asus,529.1741226,Rarely,Gaming,Include.,3,Advanced,Yes
+61768894,John Young,jeffreyholmes@example.org,60,Small City,38820,Management/self-employed/highly qualified employee/officer,2/19/2020,Asus,846.2204819,Weekly,Gaming,Wide.,1,Beginner,No
